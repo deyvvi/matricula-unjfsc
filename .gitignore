@@ -1,0 +1,4 @@
+pdfs_temp/
+*.pdf
+__pycache__/
+.vscode/

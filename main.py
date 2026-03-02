@@ -58,7 +58,20 @@ HTML_NAME = "index.html"
 if not os.path.exists(FOLDER_PDFS): os.makedirs(FOLDER_PDFS)
 
 def limpiar_curso(n):
-    return re.sub(r'(-[A-Z]-)?\s*(Teoría|Práctica|Teoria|Practica)', '', str(n), flags=re.IGNORECASE).strip()
+    n = str(n).upper().strip()
+    basura_regex = r'[- ]+(TEOR[IÍ]A|PR[AÁ]CTICA|[A-Z]|\d+)$'
+    
+    # "-A-PRÁCTICA-2"
+    while True:
+        nuevo_n = re.sub(basura_regex, '', n).strip()
+        if nuevo_n == n:
+            break
+        n = nuevo_n
+    
+    # Caso especial: (INVESTIGACIÓNPRÁCTICA)
+    n = re.sub(r'(TEOR[IÍ]A|PR[AÁ]CTICA)$', '', n).strip()
+    
+    return n
 
 def descargar_pdf(sid):
     print(f"Descargando {sid}...")
@@ -81,26 +94,34 @@ def descargar_pdf(sid):
     return False
 
 def extraer_data(path):
-    try:
-        with pdfplumber.open(path) as pdf:
-            txt = pdf.pages[0].extract_text()
-            nom = re.search(r"APELLIDOS Y NOMBRES\s*:\s*(.*?)\s+PLAN", txt).group(1).strip()
-            cod = re.search(r"CÓDIGO UNIVERSITARIO\s*:\s*(\d+)", txt).group(1)
-            cursos = set()
-            for page in pdf.pages:
-                table = page.extract_table({"vertical_strategy": "lines", "horizontal_strategy": "lines"})
-                if table:
-                    acum = ""
-                    for row in table:
-                        if not row or not row[0]: continue
-                        c, h = str(row[0]).replace('\n', ' ').strip(), row[1]
-                        if c and "CURSO" not in c and "H O R A R I O" not in c:
-                            if not h: acum += " " + c
-                            else: 
-                                cursos.add(limpiar_curso(acum + " " + c))
-                                acum = ""
-            return {"nom": nom, "cod": cod, "cursos": sorted(list(cursos))}
-    except: return None
+    with pdfplumber.open(path) as pdf:
+        txt = pdf.pages[0].extract_text()
+        nom = re.search(r"APELLIDOS Y NOMBRES\s*:\s*(.*?)\s+PLAN", txt).group(1).strip()
+        cod = re.search(r"CÓDIGO UNIVERSITARIO\s*:\s*(\d+)", txt).group(1)
+
+        lista_final = []
+        for page in pdf.pages:
+            table = page.extract_table({"vertical_strategy": "lines", "horizontal_strategy": "lines"})
+            if table:
+                acum = ""
+                for row in table:
+                    if not row or not row[0]: continue
+                    c, h = str(row[0]).replace('\n', ' ').strip(), row[1]
+                    if c and "CURSO" not in c and "H O R A R I O" not in c:
+                        if not h: acum += " " + c
+                        else: 
+                            raw_name = (acum + " " + c).upper()
+                            clean_name = limpiar_curso(raw_name)
+                            
+                            if "TEOR" in raw_name:
+                                lista_final.append(clean_name)
+                            elif "PRAC" in raw_name or "PRÁC" in raw_name:
+                                if clean_name not in lista_final:
+                                    lista_final.append(clean_name)
+                            
+                            acum = ""
+
+        return {"nom": nom, "cod": cod, "cursos": sorted(lista_final)}
 
 def generar_html(data):
     total = len(data)

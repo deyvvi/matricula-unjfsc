@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reporte de Matrícula</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f8f8f8; padding: 20px; }
+        .container { max-width: 1300px; margin: auto; }
+        .header { border-bottom: 1px solid #ccc; margin-bottom: 20px; padding-bottom: 10px; }
+        h2 { margin: 0; text-transform: uppercase; }
+        .info { font-size: 14px; margin-top: 5px; }
+        .table-container { overflow-x: auto; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; min-width: 600px; }
+        th, td { border: 1px solid #ccc; padding: 10px; text-align: left; }
+        th { background-color: #f4f4f4; font-size: 12px; text-transform: uppercase; }
+        td { background-color: #ffffff; font-size: 13px; vertical-align: top; }
+        .cursos ul { margin: 0; padding-left: 15px; font-size: 11px; }
+
+        .tabs-container { display: flex; gap: 15px; margin-bottom: 0px; border-bottom: 1px solid #ccc; }
+        .tab { 
+            padding: 10px 5px; cursor: pointer; border: none; background: none;
+            font-size: 13px; font-weight: bold; color: #888; text-transform: uppercase;
+            outline: none; position: relative; transition: 0.2s;
+        }
+        .tab:hover { color: #333; }
+        .tab.active { color: #000; }
+        .tab.active::after {
+            content: ""; position: absolute; bottom: 0; left: 0; width: 100%; height: 3px; background: #333;
+        }
+
+        @media (max-width: 600px) {
+            body { padding: 10px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>Reporte de Matrícula</h2>
+            <div class="info">
+                Actualizado: 23/03/2026 16:10<br>
+                Total: 3 | Matriculados: 3
+            </div>
+        </div>
+
+        <div class="tabs-container">
+            <button class="tab active" onclick="filtrar(this, 'todos')">TODOS</button><button class="tab" onclick="filtrar(this, 'Ciclo 2022-2')">CICLO 2022-2</button><button class="tab" onclick="filtrar(this, 'Ciclo 2023-1')">CICLO 2023-1</button>
+        </div>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 100px;">Código</th>
+                        <th>Nombre del Estudiante</th>
+                        <th style="width: 50px; text-align:center;">Matrícula</th>
+                        <th>Cursos</th>
+                        <th style="width: 50px; text-align:center;">Créditos</th>
+                    </tr>
+                </thead>
+                <tbody id="tablaBody">
+                    
+        <tr class="fila-estudiante" data-grupo="Ciclo 2023-1">
+            <td>0332231013</td>
+            <td><b>ARMAS DEXTRE CRISTHOFER AMADOR</b></td>
+            <td style="text-align:center; font-weight:bold; color: green;">SI</td>
+            <td class="cursos"><ul><li>COMPLEMENTO ESPECIALIZADO <span style='color:#333; font-size:11px;'>(4)</span></li><li>FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI <span style='color:#333; font-size:11px;'>(3)</span></li><li>GERENCIA ESTRATEGICA DE TI <span style='color:#333; font-size:11px;'>(3)</span></li><li>INVESTIGACION OPERATIVA II <span style='color:#333; font-size:11px;'>(3)</span></li><li>LEGISLACIÓN INFORMÁTICA <span style='color:#333; font-size:11px;'>(3)</span></li><li>SIMULACIÓN DE SISTEMAS <span style='color:#333; font-size:11px;'>(3)</span></li><li>SISTEMAS DE EXPERTOS <span style='color:#333; font-size:11px;'>(3)</span></li><li>TALLER DE ARTE <span style='color:#333; font-size:11px;'>(3)</span></li></ul></td>
+            <td style="text-align:center; font-weight:bold;">25</td>
+            </tr>
+        <tr class="fila-estudiante" data-grupo="Ciclo 2022-2">
+            <td>0332222012</td>
+            <td><b>ESPINOZA POMA ROYEL DIEGO</b></td>
+            <td style="text-align:center; font-weight:bold; color: green;">SI</td>
+            <td class="cursos"><ul><li>COMPLEMENTO ESPECIALIZADO <span style='color:#333; font-size:11px;'>(4)</span></li><li>OPERATION MANAGEMENT (IN ENGLISH) <span style='color:#333; font-size:11px;'>(3)</span></li><li>PRACTICA PRE PROFESIONAL <span style='color:#333; font-size:11px;'>(8)</span></li><li>PROYECTO DE TESIS II - TRABAJO DE INVESTIGACIÓN <span style='color:#333; font-size:11px;'>(4)</span></li></ul></td>
+            <td style="text-align:center; font-weight:bold;">19</td>
+            </tr>
+        <tr class="fila-estudiante" data-grupo="Ciclo 2022-2">
+            <td>0332222033</td>
+            <td><b>ZARATE GRANADOS AXEL FARID</b></td>
+            <td style="text-align:center; font-weight:bold; color: green;">SI</td>
+            <td class="cursos"><ul><li>COMPLEMENTO ESPECIALIZADO <span style='color:#333; font-size:11px;'>(4)</span></li><li>COMPLEMENTO ESPECIALIZADO <span style='color:#333; font-size:11px;'>(4)</span></li><li>EMPRENDIMIENTO E INNOVACIÓN <span style='color:#333; font-size:11px;'>(4)</span></li><li>INGENIERÍA DE PROCESOS <span style='color:#333; font-size:11px;'>(4)</span></li><li>SEGURIDAD INFORMATICA <span style='color:#333; font-size:11px;'>(3)</span></li><li>SIMULACIÓN DE SISTEMAS <span style='color:#333; font-size:11px;'>(3)</span></li><li>WEB APPLICATION DEVELOOPMENT (IN ENGLISH) <span style='color:#333; font-size:11px;'>(3)</span></li></ul></td>
+            <td style="text-align:center; font-weight:bold;">25</td>
+            </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+    function filtrar(btn, grupo) {
+        var tabs = document.getElementsByClassName("tab");
+        for (var i = 0; i < tabs.length; i++) { tabs[i].classList.remove("active"); }
+        btn.classList.add("active");
+
+        var filas = document.getElementsByClassName("fila-estudiante");
+        for (var i = 0; i < filas.length; i++) {
+            if (grupo === "todos") {
+                filas[i].style.display = "";
+            } else {
+                filas[i].style.display = (filas[i].getAttribute("data-grupo") === grupo) ? "" : "none";
+            }
+        }
+    }
+    </script>
+</body>
+</html>

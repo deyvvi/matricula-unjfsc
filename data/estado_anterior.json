@@ -14,20 +14,6 @@
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "ACUÑA ROJAS GIANFRANCO JAIR",
-        "cod": "0332231012",
-        "cursos": [
-            "CALIDAD DE SERVICIOS DE TI",
-            "COMPLEMENTO ESPECIALIZADO",
-            "GERENCIA ESTRATEGICA DE TI",
-            "INTELIGENCIA DE NEGOCIOS",
-            "INVESTIGACION OPERATIVA II",
-            "SISTEMAS DE EXPERTOS",
-            "TALLER DE ARTE"
-        ],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
         "nom": "ALVA ARQUIÑIGO DENNIS ULISES",
         "cod": "0332222001",
         "cursos": [
@@ -176,37 +162,9 @@
         "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "CASTRO GARCIA SERGIO DANEK",
-        "cod": "0332231016",
-        "cursos": [
-            "CALIDAD DE SERVICIOS DE TI",
-            "COMPLEMENTO ESPECIALIZADO",
-            "DESARROLLO DE SISTEMAS DE INFORMACION",
-            "HERRAMIENTAS DE DESARROLLO WEB",
-            "INVESTIGACION OPERATIVA II",
-            "REDES Y COMUNICACIONES",
-            "TALLER DE ARTE"
-        ],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
         "nom": "CAUSO CISNEROS JAIR EMANUEL",
         "cod": "0332231007",
         "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "CAUSSO MARILUZ JOSEPH GIOVANNI",
-        "cod": "0332231017",
-        "cursos": [
-            "CALIDAD DE SERVICIOS DE TI",
-            "COMPLEMENTO ESPECIALIZADO",
-            "COMPLEMENTO ESPECIALIZADO",
-            "GERENCIA ESTRATEGICA DE TI",
-            "INTELIGENCIA DE NEGOCIOS",
-            "REALIDAD NACIONAL E INTERNACIONAL",
-            "SISTEMAS DE EXPERTOS"
-        ],
         "grupo": "Ciclo 2023-1"
     },
     {
@@ -222,34 +180,6 @@
             "TEORÍA GENERAL DE SISTEMAS"
         ],
         "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "CAÑA JIMENEZ FRANYER ALEXANDER",
-        "cod": "0332231015",
-        "cursos": [
-            "CALIDAD DE SERVICIOS DE TI",
-            "COMPLEMENTO ESPECIALIZADO",
-            "GERENCIA ESTRATEGICA DE TI",
-            "INVESTIGACION OPERATIVA II",
-            "LEGISLACIÓN INFORMÁTICA",
-            "SISTEMAS DE EXPERTOS",
-            "TALLER DE ARTE"
-        ],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "CHAVEZ RIOJAS JUAN MANUEL",
-        "cod": "0332161012",
-        "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "EMPRENDIMIENTO E INNOVACIÓN",
-            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
-            "INGENIERÍA DE PROCESOS",
-            "LEGISLACIÓN INFORMÁTICA",
-            "SIMULACIÓN DE SISTEMAS",
-            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
-        ],
-        "grupo": "Ciclo 2022-2"
     },
     {
         "nom": "CORONADO YANAC RODRIGO ALBERTO",
@@ -287,20 +217,6 @@
         "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "DELGADO SANTOS DIEGO ANTONIO",
-        "cod": "0332222009",
-        "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "EMPRENDIMIENTO E INNOVACIÓN",
-            "GESTION DE PROYECTOS DE TI",
-            "INGENIERÍA DE PROCESOS",
-            "SEGURIDAD INFORMATICA",
-            "SIMULACIÓN DE SISTEMAS",
-            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
-        ],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
         "nom": "DIAZ HUACHO ANGIE JUVIRY",
         "cod": "0332231020",
         "cursos": [
@@ -318,20 +234,6 @@
         "nom": "DORCA CARHUACHIN CHARLY JOSE",
         "cod": "0332222010",
         "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "ESPINOZA ALVINO BENJHY ZAITH",
-        "cod": "0332222011",
-        "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "EMPRENDIMIENTO E INNOVACIÓN",
-            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
-            "INGENIERÍA DE PROCESOS",
-            "SEGURIDAD INFORMATICA",
-            "SIMULACIÓN DE SISTEMAS",
-            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
-        ],
         "grupo": "Ciclo 2022-2"
     },
     {
@@ -494,19 +396,6 @@
         "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "MARTINEZ SANCHEZ ROBERTO SMIDT",
-        "cod": "0332231029",
-        "cursos": [
-            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
-            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
-            "GESTION DEL CONOCIMIENTO",
-            "PRACTICA PRE PROFESIONAL",
-            "PROYECTO DE TESIS II - TRABAJO DE INVESTIGACIÓN",
-            "SIMULACIÓN DE SISTEMAS"
-        ],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
         "nom": "MAYHUA CARRERA YERIMI JARED",
         "cod": "0332222015",
         "cursos": [
@@ -546,20 +435,6 @@
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
         "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "MIRANDA LUPA VICTORANDRE ELIAS",
-        "cod": "0332231031",
-        "cursos": [
-            "CALIDAD DE SERVICIOS DE TI",
-            "COMPLEMENTO ESPECIALIZADO",
-            "GERENCIA ESTRATEGICA DE TI",
-            "INTELIGENCIA DE NEGOCIOS",
-            "INVESTIGACION OPERATIVA II",
-            "SISTEMAS DE EXPERTOS",
-            "TALLER DE ARTE"
-        ],
-        "grupo": "Ciclo 2023-1"
     },
     {
         "nom": "MOLINA AYALA JOSE CARLOS",
@@ -631,6 +506,84 @@
             "SIMULACIÓN DE SISTEMAS"
         ],
         "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332161012",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332222009",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332222011",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332222028",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231012",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231015",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231016",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231017",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231029",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231031",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231048",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231049",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231052",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
     },
     {
         "nom": "ORTEGA ZEVALLOS RONALDO",
@@ -725,20 +678,6 @@
         "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "PEÑA MEJIA CHRISTIAN PAOLO",
-        "cod": "0332231048",
-        "cursos": [
-            "ANALISIS Y DISEÑO DE SISTEMAS DE INFORMACION",
-            "COMPLEMENTO ESPECIALIZADO",
-            "DINÁMICAS DE SISTEMAS",
-            "IMPLEMENTACIÓN Y GESTIÓN DE BASES DE DATOS",
-            "ORGANIZACIÓN Y DIRECCIÓN DE PERSONAS",
-            "PLANEAMIENTO ESTRATEGICO DE TI",
-            "ÉTICA Y RESPONSABILIDAD SOCIAL Y AMBIENTAL"
-        ],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
         "nom": "PEÑA RAMIREZ FRANKLIN WILLY",
         "cod": "0332231038",
         "cursos": [
@@ -827,20 +766,6 @@
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
         "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "RUIZ SAAVEDRA RICARDO STEVEN",
-        "cod": "0332231049",
-        "cursos": [
-            "ANALISIS Y DISEÑO DE SISTEMAS DE INFORMACION",
-            "COMPLEMENTO ESPECIALIZADO",
-            "DINÁMICAS DE SISTEMAS",
-            "ESTADISTICA EXPERIMENTAL",
-            "IMPLEMENTACIÓN Y GESTIÓN DE BASES DE DATOS",
-            "ORGANIZACIÓN Y DIRECCIÓN DE PERSONAS",
-            "ÉTICA Y RESPONSABILIDAD SOCIAL Y AMBIENTAL"
-        ],
-        "grupo": "Ciclo 2023-1"
     },
     {
         "nom": "RUIZ SANCHEZ PEDRO JOSE HUMBERTO",
@@ -938,20 +863,6 @@
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "VALDIVIA JUSTO CHRISTIAN ANGEL",
-        "cod": "0332222028",
-        "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "EMPRENDIMIENTO E INNOVACIÓN",
-            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
-            "INGENIERÍA DE PROCESOS",
-            "SEGURIDAD INFORMATICA",
-            "SIMULACIÓN DE SISTEMAS",
-            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
-        ],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
         "nom": "VALVERDE PADILLA MARTIN GIOVANNY",
         "cod": "0332222029",
         "cursos": [],
@@ -998,20 +909,6 @@
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
         "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "VILLANUEVA CANALES LUIS ALESSANDRO",
-        "cod": "0332231052",
-        "cursos": [
-            "ANALISIS Y DISEÑO DE SISTEMAS DE INFORMACION",
-            "COMPLEMENTO ESPECIALIZADO",
-            "DINÁMICAS DE SISTEMAS",
-            "IMPLEMENTACIÓN Y GESTIÓN DE BASES DE DATOS",
-            "MARKETING DIGITAL",
-            "ORGANIZACIÓN Y DIRECCIÓN DE PERSONAS",
-            "ÉTICA Y RESPONSABILIDAD SOCIAL Y AMBIENTAL"
-        ],
-        "grupo": "Ciclo 2023-1"
     },
     {
         "nom": "VITE VIDAL JOSE CARLOS",

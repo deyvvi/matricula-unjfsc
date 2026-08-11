@@ -112,6 +112,20 @@
         "grupo": "Ciclo 2022-2"
     },
     {
+        "nom": "ASENCIOS OBREGON DAVID IMANOL",
+        "cod": "0332222006",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "SEGURIDAD INFORMATICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
         "nom": "AYALA RAMIREZ JOHNNY FABRIZIO",
         "cod": "0332231014",
         "cursos": [
@@ -259,6 +273,20 @@
         "grupo": "Ciclo 2023-1"
     },
     {
+        "nom": "DE LA CRUZ RAMIREZ MAYTIN JOSE",
+        "cod": "0332141012",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
         "nom": "DELGADO SANTOS DIEGO ANTONIO",
         "cod": "0332222009",
         "cursos": [
@@ -271,6 +299,20 @@
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
         "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "DIAZ HUACHO ANGIE JUVIRY",
+        "cod": "0332231020",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTO DE TESIS II - TRABAJO DE INVESTIGACIÓN",
+            "SEGURIDAD INFORMATICA",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2023-1"
     },
     {
         "nom": "DORCA CARHUACHIN CHARLY JOSE",
@@ -343,6 +385,20 @@
             "INVESTIGACION OPERATIVA",
             "PLANEAMIENTO ESTRATEGICO DE TI",
             "REDES Y COMUNICACIONES"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "GUTIERREZ FERNANDEZ ANGELO PIERO",
+        "cod": "0332231024",
+        "cursos": [
+            "CALCULO NUMERICO",
+            "CALIDAD DE SERVICIOS DE TI",
+            "COMPLEMENTO ESPECIALIZADO",
+            "DESARROLLO DE SISTEMAS DE INFORMACION",
+            "GERENCIA ESTRATEGICA DE TI",
+            "INTELIGENCIA DE NEGOCIOS",
+            "REALIDAD NACIONAL E INTERNACIONAL"
         ],
         "grupo": "Ciclo 2023-1"
     },
@@ -575,36 +631,6 @@
             "SIMULACIÓN DE SISTEMAS"
         ],
         "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332141012",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222006",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231020",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231024",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231052",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
     },
     {
         "nom": "ORTEGA ZEVALLOS RONALDO",
@@ -972,6 +998,20 @@
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
         "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "VILLANUEVA CANALES LUIS ALESSANDRO",
+        "cod": "0332231052",
+        "cursos": [
+            "ANALISIS Y DISEÑO DE SISTEMAS DE INFORMACION",
+            "COMPLEMENTO ESPECIALIZADO",
+            "DINÁMICAS DE SISTEMAS",
+            "IMPLEMENTACIÓN Y GESTIÓN DE BASES DE DATOS",
+            "MARKETING DIGITAL",
+            "ORGANIZACIÓN Y DIRECCIÓN DE PERSONAS",
+            "ÉTICA Y RESPONSABILIDAD SOCIAL Y AMBIENTAL"
+        ],
+        "grupo": "Ciclo 2023-1"
     },
     {
         "nom": "VITE VIDAL JOSE CARLOS",

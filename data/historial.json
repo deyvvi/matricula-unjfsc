@@ -22,7 +22,21 @@
     "0332222004": [],
     "0332231013": [],
     "0332222005": [],
-    "0332222006": [],
+    "0332222006": [
+        {
+            "fecha": "11/08/2026 14:06",
+            "agregados": [
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)",
+                "INGENIERÍA DE PROCESOS",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "COMPLEMENTO ESPECIALIZADO",
+                "SEGURIDAD INFORMATICA",
+                "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+                "SIMULACIÓN DE SISTEMAS"
+            ],
+            "retirados": []
+        }
+    ],
     "0332231014": [],
     "0332231001": [],
     "0332222007": [],
@@ -90,7 +104,21 @@
     ],
     "0332231019": [],
     "0332231008": [],
-    "0332141012": [],
+    "0332141012": [
+        {
+            "fecha": "11/08/2026 14:06",
+            "agregados": [
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)",
+                "INGENIERÍA DE PROCESOS",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "COMPLEMENTO ESPECIALIZADO",
+                "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+                "LEGISLACIÓN INFORMÁTICA",
+                "SIMULACIÓN DE SISTEMAS"
+            ],
+            "retirados": []
+        }
+    ],
     "0332222009": [
         {
             "fecha": "09/08/2026 05:38",
@@ -106,7 +134,21 @@
             "retirados": []
         }
     ],
-    "0332231020": [],
+    "0332231020": [
+        {
+            "fecha": "11/08/2026 14:06",
+            "agregados": [
+                "TOMA DE DESICIONES",
+                "COMPLEMENTO ESPECIALIZADO",
+                "SEGURIDAD INFORMATICA",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "GESTION DE PROYECTOS DE TI",
+                "PROYECTO DE TESIS II - TRABAJO DE INVESTIGACIÓN",
+                "GESTION DE CALIDAD"
+            ],
+            "retirados": []
+        }
+    ],
     "0332222010": [],
     "0332222011": [
         {
@@ -128,7 +170,21 @@
     "0332231022": [],
     "0332231002": [],
     "0332231023": [],
-    "0332231024": [],
+    "0332231024": [
+        {
+            "fecha": "11/08/2026 14:06",
+            "agregados": [
+                "REALIDAD NACIONAL E INTERNACIONAL",
+                "INTELIGENCIA DE NEGOCIOS",
+                "DESARROLLO DE SISTEMAS DE INFORMACION",
+                "COMPLEMENTO ESPECIALIZADO",
+                "GERENCIA ESTRATEGICA DE TI",
+                "CALCULO NUMERICO",
+                "CALIDAD DE SERVICIOS DE TI"
+            ],
+            "retirados": []
+        }
+    ],
     "0332231025": [],
     "0332231026": [],
     "0332222013": [],
@@ -257,6 +313,19 @@
                 "ORGANIZACIÓN Y DIRECCIÓN DE PERSONAS",
                 "ÉTICA Y RESPONSABILIDAD SOCIAL Y AMBIENTAL",
                 "MARKETING DIGITAL"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "11/08/2026 14:06",
+            "agregados": [
+                "ÉTICA Y RESPONSABILIDAD SOCIAL Y AMBIENTAL",
+                "MARKETING DIGITAL",
+                "DINÁMICAS DE SISTEMAS",
+                "COMPLEMENTO ESPECIALIZADO",
+                "ORGANIZACIÓN Y DIRECCIÓN DE PERSONAS",
+                "ANALISIS Y DISEÑO DE SISTEMAS DE INFORMACION",
+                "IMPLEMENTACIÓN Y GESTIÓN DE BASES DE DATOS"
             ],
             "retirados": []
         }

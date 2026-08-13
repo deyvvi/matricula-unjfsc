@@ -67,10 +67,7 @@
         "nom": "ALVARADO POZO GENESIS GERALDINE",
         "cod": "0332222003",
         "cursos": [
-            "GESTION DE PROYECTOS DE TI",
             "INGENIERÍA DE PROCESOS",
-            "PRACTICA PRE PROFESIONAL",
-            "PROYECTO DE TESIS II - TRABAJO DE INVESTIGACIÓN",
             "SIMULACIÓN DE SISTEMAS",
             "SISTEMAS DE EXPERTOS"
         ],
@@ -362,13 +359,8 @@
         "cod": "0332231002",
         "cursos": [
             "CALIDAD DE SERVICIOS DE TI",
-            "COMPLEMENTO ESPECIALIZADO",
             "DESARROLLO DE SISTEMAS DE INFORMACION",
-            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
-            "GERENCIA ESTRATEGICA DE TI",
-            "INVESTIGACION OPERATIVA II",
-            "LEGISLACIÓN INFORMÁTICA",
-            "TALLER DE ARTE"
+            "INVESTIGACION OPERATIVA II"
         ],
         "grupo": "Ciclo 2023-1"
     },
@@ -743,13 +735,8 @@
         "cod": "0332231038",
         "cursos": [
             "CALIDAD DE SERVICIOS DE TI",
-            "COMPLEMENTO ESPECIALIZADO",
-            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
             "GERENCIA ESTRATEGICA DE TI",
-            "INTELIGENCIA DE NEGOCIOS",
-            "INVESTIGACION OPERATIVA II",
-            "SISTEMAS DE EXPERTOS",
-            "TALLER DE ARTE"
+            "INVESTIGACION OPERATIVA II"
         ],
         "grupo": "Ciclo 2023-1"
     },
@@ -1037,12 +1024,8 @@
         "nom": "YAUYO MATEO ALEXIS YOJANG",
         "cod": "0332231047",
         "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "GESTION DEL CONOCIMIENTO",
             "INFORMATION TECHNOLOGY AUDIT (IN ENGLISH)",
             "OPERATION MANAGEMENT (IN ENGLISH)",
-            "PRACTICA PRE PROFESIONAL",
-            "PROYECTO DE TESIS II - TRABAJO DE INVESTIGACIÓN",
             "TOMA DE DESICIONES"
         ],
         "grupo": "Ciclo 2023-1"

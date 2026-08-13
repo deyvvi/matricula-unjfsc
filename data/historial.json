@@ -18,7 +18,17 @@
     "0332222001": [],
     "0332222002": [],
     "0332231006": [],
-    "0332222003": [],
+    "0332222003": [
+        {
+            "fecha": "13/08/2026 06:04",
+            "agregados": [],
+            "retirados": [
+                "PROYECTO DE TESIS II - TRABAJO DE INVESTIGACIÓN",
+                "GESTION DE PROYECTOS DE TI",
+                "PRACTICA PRE PROFESIONAL"
+            ]
+        }
+    ],
     "0332222004": [],
     "0332231013": [],
     "0332222005": [],
@@ -168,7 +178,19 @@
     "0332231021": [],
     "0332222012": [],
     "0332231022": [],
-    "0332231002": [],
+    "0332231002": [
+        {
+            "fecha": "13/08/2026 06:04",
+            "agregados": [],
+            "retirados": [
+                "TALLER DE ARTE",
+                "COMPLEMENTO ESPECIALIZADO",
+                "GERENCIA ESTRATEGICA DE TI",
+                "LEGISLACIÓN INFORMÁTICA",
+                "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI"
+            ]
+        }
+    ],
     "0332231023": [],
     "0332231024": [
         {
@@ -251,7 +273,19 @@
             "retirados": []
         }
     ],
-    "0332231038": [],
+    "0332231038": [
+        {
+            "fecha": "13/08/2026 06:04",
+            "agregados": [],
+            "retirados": [
+                "INTELIGENCIA DE NEGOCIOS",
+                "TALLER DE ARTE",
+                "COMPLEMENTO ESPECIALIZADO",
+                "SISTEMAS DE EXPERTOS",
+                "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI"
+            ]
+        }
+    ],
     "0332222023": [],
     "0332231039": [],
     "0332231003": [],
@@ -332,7 +366,18 @@
     ],
     "0332231010": [],
     "0332231046": [],
-    "0332231047": [],
+    "0332231047": [
+        {
+            "fecha": "13/08/2026 06:04",
+            "agregados": [],
+            "retirados": [
+                "PROYECTO DE TESIS II - TRABAJO DE INVESTIGACIÓN",
+                "GESTION DEL CONOCIMIENTO",
+                "COMPLEMENTO ESPECIALIZADO",
+                "PRACTICA PRE PROFESIONAL"
+            ]
+        }
+    ],
     "0332222033": [],
     "0332222034": [],
     "0332231005": []

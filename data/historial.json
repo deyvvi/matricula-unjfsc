@@ -198,6 +198,17 @@
                 "LEGISLACIÓN INFORMÁTICA",
                 "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI"
             ]
+        },
+        {
+            "fecha": "13/08/2026 10:01",
+            "agregados": [
+                "COMPLEMENTO ESPECIALIZADO",
+                "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+                "GERENCIA ESTRATEGICA DE TI",
+                "LEGISLACIÓN INFORMÁTICA",
+                "TALLER DE ARTE"
+            ],
+            "retirados": []
         }
     ],
     "0332231023": [],
@@ -244,6 +255,15 @@
                 "GESTION DEL CONOCIMIENTO",
                 "PRACTICA PRE PROFESIONAL"
             ]
+        },
+        {
+            "fecha": "13/08/2026 10:01",
+            "agregados": [
+                "GESTION DEL CONOCIMIENTO",
+                "PRACTICA PRE PROFESIONAL",
+                "PROYECTO DE TESIS II - TRABAJO DE INVESTIGACIÓN"
+            ],
+            "retirados": []
         }
     ],
     "0332222015": [],
@@ -257,6 +277,15 @@
                 "SEGURIDAD INFORMATICA",
                 "COMPLEMENTO ESPECIALIZADO"
             ]
+        },
+        {
+            "fecha": "13/08/2026 10:01",
+            "agregados": [
+                "COMPLEMENTO ESPECIALIZADO",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "SEGURIDAD INFORMATICA"
+            ],
+            "retirados": []
         }
     ],
     "0332231031": [
@@ -339,6 +368,16 @@
                 "COMPLEMENTO ESPECIALIZADO",
                 "GERENCIA ESTRATEGICA DE TI"
             ]
+        },
+        {
+            "fecha": "13/08/2026 10:01",
+            "agregados": [
+                "INVESTIGACION OPERATIVA II",
+                "COMPLEMENTO ESPECIALIZADO",
+                "GERENCIA ESTRATEGICA DE TI",
+                "TALLER DE ARTE"
+            ],
+            "retirados": []
         }
     ],
     "0332231042": [],
@@ -393,6 +432,15 @@
                 "SEGURIDAD INFORMATICA",
                 "COMPLEMENTO ESPECIALIZADO"
             ]
+        },
+        {
+            "fecha": "13/08/2026 10:01",
+            "agregados": [
+                "COMPLEMENTO ESPECIALIZADO",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "SEGURIDAD INFORMATICA"
+            ],
+            "retirados": []
         }
     ],
     "0332222032": [],

@@ -362,8 +362,13 @@
         "cod": "0332231002",
         "cursos": [
             "CALIDAD DE SERVICIOS DE TI",
+            "COMPLEMENTO ESPECIALIZADO",
             "DESARROLLO DE SISTEMAS DE INFORMACION",
-            "INVESTIGACION OPERATIVA II"
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "GERENCIA ESTRATEGICA DE TI",
+            "INVESTIGACION OPERATIVA II",
+            "LEGISLACIÓN INFORMÁTICA",
+            "TALLER DE ARTE"
         ],
         "grupo": "Ciclo 2023-1"
     },
@@ -494,6 +499,9 @@
         "cursos": [
             "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
             "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DEL CONOCIMIENTO",
+            "PRACTICA PRE PROFESIONAL",
+            "PROYECTO DE TESIS II - TRABAJO DE INVESTIGACIÓN",
             "SIMULACIÓN DE SISTEMAS"
         ],
         "grupo": "Ciclo 2023-1"
@@ -529,7 +537,11 @@
         "nom": "MESTANZA ORTIZ JHULY DANY",
         "cod": "0332222016",
         "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
             "INGENIERÍA DE PROCESOS",
+            "SEGURIDAD INFORMATICA",
             "SIMULACIÓN DE SISTEMAS",
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
@@ -777,9 +789,13 @@
         "nom": "RODRIGUEZ GAMARRA RODRIGO ALONSO",
         "cod": "0332231041",
         "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
             "DESARROLLO DE SISTEMAS DE INFORMACION",
             "ESTADISTICA EXPERIMENTAL",
-            "INGLÉS III"
+            "GERENCIA ESTRATEGICA DE TI",
+            "INGLÉS III",
+            "INVESTIGACION OPERATIVA II",
+            "TALLER DE ARTE"
         ],
         "grupo": "Ciclo 2023-1"
     },
@@ -959,7 +975,11 @@
         "nom": "VENTURA SANTOS RONALDINO ROMARIO",
         "cod": "0332222031",
         "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
             "INGENIERÍA DE PROCESOS",
+            "SEGURIDAD INFORMATICA",
             "SIMULACIÓN DE SISTEMAS",
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],

@@ -67,7 +67,10 @@
         "nom": "ALVARADO POZO GENESIS GERALDINE",
         "cod": "0332222003",
         "cursos": [
+            "GESTION DE PROYECTOS DE TI",
             "INGENIERÍA DE PROCESOS",
+            "PRACTICA PRE PROFESIONAL",
+            "PROYECTO DE TESIS II - TRABAJO DE INVESTIGACIÓN",
             "SIMULACIÓN DE SISTEMAS",
             "SISTEMAS DE EXPERTOS"
         ],
@@ -491,9 +494,6 @@
         "cursos": [
             "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
             "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
-            "GESTION DEL CONOCIMIENTO",
-            "PRACTICA PRE PROFESIONAL",
-            "PROYECTO DE TESIS II - TRABAJO DE INVESTIGACIÓN",
             "SIMULACIÓN DE SISTEMAS"
         ],
         "grupo": "Ciclo 2023-1"
@@ -529,11 +529,7 @@
         "nom": "MESTANZA ORTIZ JHULY DANY",
         "cod": "0332222016",
         "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "COMPLEMENTO ESPECIALIZADO",
-            "EMPRENDIMIENTO E INNOVACIÓN",
             "INGENIERÍA DE PROCESOS",
-            "SEGURIDAD INFORMATICA",
             "SIMULACIÓN DE SISTEMAS",
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
@@ -735,8 +731,13 @@
         "cod": "0332231038",
         "cursos": [
             "CALIDAD DE SERVICIOS DE TI",
+            "COMPLEMENTO ESPECIALIZADO",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
             "GERENCIA ESTRATEGICA DE TI",
-            "INVESTIGACION OPERATIVA II"
+            "INTELIGENCIA DE NEGOCIOS",
+            "INVESTIGACION OPERATIVA II",
+            "SISTEMAS DE EXPERTOS",
+            "TALLER DE ARTE"
         ],
         "grupo": "Ciclo 2023-1"
     },
@@ -776,13 +777,9 @@
         "nom": "RODRIGUEZ GAMARRA RODRIGO ALONSO",
         "cod": "0332231041",
         "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
             "DESARROLLO DE SISTEMAS DE INFORMACION",
             "ESTADISTICA EXPERIMENTAL",
-            "GERENCIA ESTRATEGICA DE TI",
-            "INGLÉS III",
-            "INVESTIGACION OPERATIVA II",
-            "TALLER DE ARTE"
+            "INGLÉS III"
         ],
         "grupo": "Ciclo 2023-1"
     },
@@ -962,11 +959,7 @@
         "nom": "VENTURA SANTOS RONALDINO ROMARIO",
         "cod": "0332222031",
         "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "COMPLEMENTO ESPECIALIZADO",
-            "EMPRENDIMIENTO E INNOVACIÓN",
             "INGENIERÍA DE PROCESOS",
-            "SEGURIDAD INFORMATICA",
             "SIMULACIÓN DE SISTEMAS",
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
@@ -1024,8 +1017,12 @@
         "nom": "YAUYO MATEO ALEXIS YOJANG",
         "cod": "0332231047",
         "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "GESTION DEL CONOCIMIENTO",
             "INFORMATION TECHNOLOGY AUDIT (IN ENGLISH)",
             "OPERATION MANAGEMENT (IN ENGLISH)",
+            "PRACTICA PRE PROFESIONAL",
+            "PROYECTO DE TESIS II - TRABAJO DE INVESTIGACIÓN",
             "TOMA DE DESICIONES"
         ],
         "grupo": "Ciclo 2023-1"

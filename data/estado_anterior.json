@@ -463,7 +463,16 @@
     {
         "nom": "MAYHUA CARRERA YERIMI JARED",
         "cod": "0332222015",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "LEGISLACIÓN INFORMÁTICA",
+            "PROYECTOS DE TESIS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {
@@ -689,7 +698,15 @@
     {
         "nom": "RODRIGUEZ GAMARRA RODRIGO ALONSO",
         "cod": "0332231041",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "ESTADISTICA EXPERIMENTAL",
+            "INGENIERÍA DE PROCESOS",
+            "INGLÉS III",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SISTEMAS DE EXPERTOS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {

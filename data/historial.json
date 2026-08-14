@@ -872,6 +872,20 @@
                 "TALLER DE ARTE",
                 "COMPLEMENTO ESPECIALIZADO"
             ]
+        },
+        {
+            "fecha": "14/08/2026 02:28",
+            "agregados": [
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "COMPLEMENTO ESPECIALIZADO",
+                "GESTION DE PROYECTOS DE TI",
+                "PROYECTOS DE TESIS",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)",
+                "LEGISLACIÓN INFORMÁTICA",
+                "GESTION DE CALIDAD"
+            ],
+            "retirados": []
         }
     ],
     "0332231030": [
@@ -1301,6 +1315,19 @@
                 "DESARROLLO DE SISTEMAS DE INFORMACION",
                 "COMPLEMENTO ESPECIALIZADO"
             ]
+        },
+        {
+            "fecha": "14/08/2026 02:28",
+            "agregados": [
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)",
+                "SISTEMAS DE EXPERTOS",
+                "LEGISLACIÓN INFORMÁTICA",
+                "INGENIERÍA DE PROCESOS",
+                "COMPLEMENTO ESPECIALIZADO",
+                "INGLÉS III",
+                "ESTADISTICA EXPERIMENTAL"
+            ],
+            "retirados": []
         }
     ],
     "0332231042": [

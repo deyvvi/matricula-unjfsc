@@ -449,7 +449,12 @@
     {
         "nom": "LUDGARDO LOPEZ PIEROL ALDAIR",
         "cod": "0332222014",
-        "cursos": [],
+        "cursos": [
+            "FILOSOFIA DE LA CIENCIA Y DE LA TECNOLOGIA",
+            "INGLÉS III",
+            "ORGANIZACIÓN Y DIRECCIÓN DE PERSONAS",
+            "ÉTICA Y RESPONSABILIDAD SOCIAL Y AMBIENTAL"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {

@@ -582,7 +582,14 @@
     {
         "nom": "NAZARIO GERÓNIMO LUIS ANTHONY",
         "cod": "0332222018",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "GESTION DEL CONOCIMIENTO",
+            "OPERATION MANAGEMENT (IN ENGLISH)",
+            "PRACTICA PRE PROFESIONAL",
+            "PROYECTOS DE TESIS"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {
@@ -637,7 +644,16 @@
     {
         "nom": "PEREZ LA ROSA LEONARDO GABRIEL",
         "cod": "0332222022",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {
@@ -731,7 +747,15 @@
     {
         "nom": "ROMERO GARAY ALEX DUNCAN",
         "cod": "0332222024",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {
@@ -858,7 +882,15 @@
     {
         "nom": "VEGA ELGUERA FERNANDO LUIS",
         "cod": "0332222030",
-        "cursos": [],
+        "cursos": [
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "PROYECTOS DE TESIS"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {

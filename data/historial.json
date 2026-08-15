@@ -1087,6 +1087,17 @@
                 "INFORMATION TECHNOLOGY AUDIT (IN ENGLISH)",
                 "PROYECTOS DE TESIS"
             ]
+        },
+        {
+            "fecha": "15/08/2026 03:32",
+            "agregados": [
+                "PROYECTOS DE TESIS",
+                "GESTION DEL CONOCIMIENTO",
+                "OPERATION MANAGEMENT (IN ENGLISH)",
+                "COMPLEMENTO ESPECIALIZADO",
+                "PRACTICA PRE PROFESIONAL"
+            ],
+            "retirados": []
         }
     ],
     "0332222019": [],
@@ -1190,6 +1201,20 @@
                 "TALLER DE ARTE",
                 "COMPLEMENTO ESPECIALIZADO"
             ]
+        },
+        {
+            "fecha": "15/08/2026 03:32",
+            "agregados": [
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "SIMULACIÓN DE SISTEMAS",
+                "GESTION DE CALIDAD",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "PROYECTOS DE TESIS",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)",
+                "GESTION DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO"
+            ],
+            "retirados": []
         }
     ],
     "0332231048": [
@@ -1374,6 +1399,19 @@
                 "INGENIERÍA DE PROCESOS",
                 "COMPLEMENTO ESPECIALIZADO"
             ]
+        },
+        {
+            "fecha": "15/08/2026 03:32",
+            "agregados": [
+                "TOMA DE DESICIONES",
+                "PROYECTOS DE TESIS",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "GESTION DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "GESTION DE CALIDAD"
+            ],
+            "retirados": []
         }
     ],
     "0332231049": [
@@ -1558,6 +1596,19 @@
                 "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
                 "COMPLEMENTO ESPECIALIZADO"
             ]
+        },
+        {
+            "fecha": "15/08/2026 03:32",
+            "agregados": [
+                "INGENIERÍA DE PROCESOS",
+                "PROYECTOS DE TESIS",
+                "GESTION DE PROYECTOS DE TI",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "LEGISLACIÓN INFORMÁTICA",
+                "GESTION DE CALIDAD"
+            ],
+            "retirados": []
         }
     ],
     "0332222031": [

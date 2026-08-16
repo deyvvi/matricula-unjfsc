@@ -804,7 +804,15 @@
     {
         "nom": "SANCHEZ LOZA AGUSTIN ALONSO",
         "cod": "0332222025",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {
@@ -910,7 +918,13 @@
     {
         "nom": "VERAMENDI BORJA LUIS FERNANDO",
         "cod": "0332222032",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {

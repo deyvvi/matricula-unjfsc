@@ -1502,6 +1502,19 @@
                 "INGENIERÍA DE PROCESOS",
                 "COMPLEMENTO ESPECIALIZADO"
             ]
+        },
+        {
+            "fecha": "16/08/2026 17:24",
+            "agregados": [
+                "GESTION DE CALIDAD",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "TOMA DE DESICIONES",
+                "PROYECTOS DE TESIS",
+                "GESTION DE PROYECTOS DE TI",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "COMPLEMENTO ESPECIALIZADO"
+            ],
+            "retirados": []
         }
     ],
     "0332231044": [
@@ -1669,6 +1682,16 @@
                 "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
                 "COMPLEMENTO ESPECIALIZADO"
             ]
+        },
+        {
+            "fecha": "16/08/2026 17:24",
+            "agregados": [
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)",
+                "INGENIERÍA DE PROCESOS",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "COMPLEMENTO ESPECIALIZADO"
+            ],
+            "retirados": []
         }
     ],
     "0332231052": [

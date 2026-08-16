@@ -896,7 +896,15 @@
     {
         "nom": "VENTURA SANTOS RONALDINO ROMARIO",
         "cod": "0332222031",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {

@@ -127,6 +127,16 @@
                 "INGENIERÍA DE PROCESOS",
                 "PRACTICA PRE PROFESIONAL"
             ]
+        },
+        {
+            "fecha": "17/08/2026 03:47",
+            "agregados": [
+                "GESTION DE CALIDAD",
+                "INFORMATION TECHNOLOGY AUDIT (IN ENGLISH)",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)"
+            ],
+            "retirados": []
         }
     ],
     "0332222004": [
@@ -1162,6 +1172,18 @@
                 "TALLER DE ARTE",
                 "COMPLEMENTO ESPECIALIZADO"
             ]
+        },
+        {
+            "fecha": "17/08/2026 03:47",
+            "agregados": [
+                "COMPLEMENTO ESPECIALIZADO",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)",
+                "SIMULACIÓN DE SISTEMAS",
+                "INGENIERÍA DE PROCESOS",
+                "LEGISLACIÓN INFORMÁTICA"
+            ],
+            "retirados": []
         }
     ],
     "0332231037": [

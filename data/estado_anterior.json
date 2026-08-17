@@ -64,7 +64,12 @@
     {
         "nom": "ALVARADO POZO GENESIS GERALDINE",
         "cod": "0332222003",
-        "cursos": [],
+        "cursos": [
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "GESTION DE CALIDAD",
+            "INFORMATION TECHNOLOGY AUDIT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {
@@ -627,7 +632,14 @@
     {
         "nom": "PACHECO RIVERA JAN FRANK RODRIGO",
         "cod": "0332231036",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {

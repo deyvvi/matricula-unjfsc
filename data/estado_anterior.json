@@ -261,7 +261,15 @@
     {
         "nom": "DE LA CRUZ RAMIREZ MAYTIN JOSE",
         "cod": "0332141012",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "SEGURIDAD INFORMATICA"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {

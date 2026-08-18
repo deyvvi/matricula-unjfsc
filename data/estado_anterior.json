@@ -841,11 +841,11 @@
         "cursos": [
             "ANALISIS Y DISEÑO DE SISTEMAS DE INFORMACION",
             "CALCULO NUMERICO",
-            "COMPLEMENTO ESPECIALIZADO",
             "DINÁMICAS DE SISTEMAS",
             "IMPLEMENTACIÓN Y GESTIÓN DE BASES DE DATOS",
             "MARKETING DIGITAL",
-            "ORGANIZACIÓN Y DIRECCIÓN DE PERSONAS"
+            "ORGANIZACIÓN Y DIRECCIÓN DE PERSONAS",
+            "ÉTICA Y RESPONSABILIDAD SOCIAL Y AMBIENTAL"
         ],
         "grupo": "Ciclo 2023-1"
     },
@@ -992,6 +992,7 @@
         "nom": "ZARATE GRANADOS AXEL FARID",
         "cod": "0332222033",
         "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
             "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
             "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
             "GESTION DE CALIDAD",

@@ -1571,6 +1571,15 @@
                 "METODOLOGÍA DE LA INVESTIGACIÓN",
                 "INGLÉS III"
             ]
+        },
+        {
+            "fecha": "18/08/2026 13:42",
+            "agregados": [
+                "ÉTICA Y RESPONSABILIDAD SOCIAL Y AMBIENTAL"
+            ],
+            "retirados": [
+                "COMPLEMENTO ESPECIALIZADO"
+            ]
         }
     ],
     "0332222026": [],
@@ -1853,6 +1862,13 @@
                 "SIMULACIÓN DE SISTEMAS",
                 "EMPRENDIMIENTO E INNOVACIÓN"
             ]
+        },
+        {
+            "fecha": "18/08/2026 13:42",
+            "agregados": [
+                "COMPLEMENTO ESPECIALIZADO"
+            ],
+            "retirados": []
         }
     ],
     "0332222034": [

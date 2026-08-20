@@ -345,6 +345,15 @@
                 "CALIDAD DE SERVICIOS DE TI",
                 "REALIDAD NACIONAL E INTERNACIONAL"
             ]
+        },
+        {
+            "fecha": "20/08/2026 09:39",
+            "agregados": [
+                "SIMULACIÓN DE SISTEMAS"
+            ],
+            "retirados": [
+                "INVESTIGACION OPERATIVA II"
+            ]
         }
     ],
     "0332231018": [

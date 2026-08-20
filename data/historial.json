@@ -17,6 +17,13 @@
                 "TALLER DE ARTE",
                 "DESARROLLO DE SISTEMAS DE INFORMACION"
             ]
+        },
+        {
+            "fecha": "20/08/2026 13:43",
+            "agregados": [
+                "INGENIERÍA DE PROCESOS"
+            ],
+            "retirados": []
         }
     ],
     "0332231012": [
@@ -463,6 +470,15 @@
                 "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
                 "LEGISLACIÓN INFORMÁTICA",
                 "TALLER DE ARTE"
+            ]
+        },
+        {
+            "fecha": "20/08/2026 13:43",
+            "agregados": [
+                "TOMA DE DESICIONES"
+            ],
+            "retirados": [
+                "SEGURIDAD INFORMATICA"
             ]
         }
     ],
@@ -1166,6 +1182,13 @@
                 "LEGISLACIÓN INFORMÁTICA",
                 "TALLER DE ARTE"
             ]
+        },
+        {
+            "fecha": "20/08/2026 13:43",
+            "agregados": [
+                "TOMA DE DESICIONES"
+            ],
+            "retirados": []
         }
     ],
     "0332231036": [

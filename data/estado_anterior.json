@@ -6,6 +6,7 @@
             "COMPLEMENTO ESPECIALIZADO",
             "COMPLEMENTO ESPECIALIZADO",
             "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
             "INVESTIGACION OPERATIVA II",
             "LEGISLACIÓN INFORMÁTICA",
             "SIMULACIÓN DE SISTEMAS",
@@ -251,8 +252,8 @@
             "COMPLEMENTO ESPECIALIZADO",
             "EMPRENDIMIENTO E INNOVACIÓN",
             "INGENIERÍA DE PROCESOS",
-            "SEGURIDAD INFORMATICA",
             "SIMULACIÓN DE SISTEMAS",
+            "TOMA DE DESICIONES",
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
         "grupo": "Ciclo 2023-1"
@@ -621,9 +622,11 @@
         "cod": "0332231035",
         "cursos": [
             "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
             "EMPRENDIMIENTO E INNOVACIÓN",
             "INGENIERÍA DE PROCESOS",
             "SIMULACIÓN DE SISTEMAS",
+            "TOMA DE DESICIONES",
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
         "grupo": "Ciclo 2023-1"

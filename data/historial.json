@@ -239,6 +239,13 @@
                 "LEGISLACIÓN INFORMÁTICA",
                 "TALLER DE ARTE"
             ]
+        },
+        {
+            "fecha": "24/08/2026 13:43",
+            "agregados": [
+                "TOMA DE DESICIONES"
+            ],
+            "retirados": []
         }
     ],
     "0332231001": [],
@@ -689,6 +696,14 @@
                 "TALLER DE ARTE",
                 "DESARROLLO DE SISTEMAS DE INFORMACION"
             ]
+        },
+        {
+            "fecha": "24/08/2026 13:43",
+            "agregados": [
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "TOMA DE DESICIONES"
+            ],
+            "retirados": []
         }
     ],
     "0332231023": [
@@ -845,6 +860,15 @@
                 "TALLER DE ARTE",
                 "DESARROLLO DE SISTEMAS DE INFORMACION"
             ]
+        },
+        {
+            "fecha": "24/08/2026 13:43",
+            "agregados": [
+                "EMPRENDIMIENTO E INNOVACIÓN"
+            ],
+            "retirados": [
+                "SIMULACIÓN DE SISTEMAS"
+            ]
         }
     ],
     "0332231028": [
@@ -986,6 +1010,15 @@
                 "INVESTIGACION OPERATIVA",
                 "HERRAMIENTAS DE DESARROLLO WEB",
                 "DESARROLLO DE SISTEMAS DE INFORMACION"
+            ]
+        },
+        {
+            "fecha": "24/08/2026 13:43",
+            "agregados": [
+                "TALLER DE ARTE"
+            ],
+            "retirados": [
+                "COMPLEMENTO ESPECIALIZADO"
             ]
         }
     ],
@@ -1981,6 +2014,17 @@
                 "PLANEAMIENTO ESTRATEGICO DE TI",
                 "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
                 "DESARROLLO DE SISTEMAS DE INFORMACION"
+            ]
+        },
+        {
+            "fecha": "24/08/2026 13:43",
+            "agregados": [
+                "TOMA DE DESICIONES",
+                "GESTION DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO"
+            ],
+            "retirados": [
+                "CALCULO NUMERICO"
             ]
         }
     ]

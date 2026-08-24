@@ -125,9 +125,11 @@
         "cod": "0332231014",
         "cursos": [
             "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
             "EMPRENDIMIENTO E INNOVACIÓN",
             "INGENIERÍA DE PROCESOS",
             "SIMULACIÓN DE SISTEMAS",
+            "TOMA DE DESICIONES",
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
         "grupo": "Ciclo 2023-1"
@@ -346,9 +348,11 @@
         "cod": "0332231002",
         "cursos": [
             "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
             "INGENIERÍA DE PROCESOS",
             "SIMULACIÓN DE SISTEMAS",
             "SISTEMAS DE EXPERTOS",
+            "TOMA DE DESICIONES",
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
         "grupo": "Ciclo 2023-1"
@@ -429,11 +433,11 @@
         "cod": "0332231027",
         "cursos": [
             "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
             "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
             "INGENIERÍA DE PROCESOS",
             "INVESTIGACION OPERATIVA II",
             "LEGISLACIÓN INFORMÁTICA",
-            "SIMULACIÓN DE SISTEMAS",
             "SISTEMAS DE EXPERTOS",
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
@@ -498,12 +502,12 @@
         "cod": "0332231030",
         "cursos": [
             "CALIDAD DE SERVICIOS DE TI",
-            "COMPLEMENTO ESPECIALIZADO",
             "GERENCIA ESTRATEGICA DE TI",
             "INTELIGENCIA DE NEGOCIOS",
             "INVESTIGACION OPERATIVA II",
             "REALIDAD NACIONAL E INTERNACIONAL",
-            "SISTEMAS DE EXPERTOS"
+            "SISTEMAS DE EXPERTOS",
+            "TALLER DE ARTE"
         ],
         "grupo": "Ciclo 2023-1"
     },
@@ -1023,13 +1027,15 @@
         "nom": "ZUÑIGA QUINECHE MIJAEL SNAIDERT",
         "cod": "0332231005",
         "cursos": [
-            "CALCULO NUMERICO",
+            "COMPLEMENTO ESPECIALIZADO",
             "GERENCIA ESTRATEGICA DE TI",
+            "GESTION DE PROYECTOS DE TI",
             "INVESTIGACION OPERATIVA II",
             "LEGISLACIÓN INFORMÁTICA",
             "SIMULACIÓN DE SISTEMAS",
             "SISTEMAS DE EXPERTOS",
-            "TALLER DE ARTE"
+            "TALLER DE ARTE",
+            "TOMA DE DESICIONES"
         ],
         "grupo": "Ciclo 2023-1"
     }

@@ -184,6 +184,13 @@
                 "SIMULACIÓN DE SISTEMAS",
                 "TALLER DE ARTE"
             ]
+        },
+        {
+            "fecha": "25/08/2026 11:41",
+            "agregados": [
+                "TOMA DE DESICIONES"
+            ],
+            "retirados": []
         }
     ],
     "0332222005": [],
@@ -1597,6 +1604,15 @@
                 "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
                 "LEGISLACIÓN INFORMÁTICA",
                 "TALLER DE ARTE"
+            ]
+        },
+        {
+            "fecha": "25/08/2026 11:41",
+            "agregados": [
+                "TOMA DE DESICIONES"
+            ],
+            "retirados": [
+                "SEGURIDAD INFORMATICA"
             ]
         }
     ],

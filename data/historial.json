@@ -164,6 +164,13 @@
                 "EMPRENDIMIENTO E INNOVACIÓN",
                 "SIMULACIÓN DE SISTEMAS"
             ]
+        },
+        {
+            "fecha": "27/08/2026 15:13",
+            "agregados": [],
+            "retirados": [
+                "COMPLEMENTO ESPECIALIZADO"
+            ]
         }
     ],
     "0332231013": [
@@ -736,6 +743,16 @@
                 "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
                 "DESARROLLO DE SISTEMAS DE INFORMACION"
             ]
+        },
+        {
+            "fecha": "27/08/2026 15:13",
+            "agregados": [
+                "LEGISLACIÓN INFORMÁTICA",
+                "COMPLEMENTO ESPECIALIZADO"
+            ],
+            "retirados": [
+                "CALCULO NUMERICO"
+            ]
         }
     ],
     "0332231024": [
@@ -1065,6 +1082,13 @@
                 "EMPRENDIMIENTO E INNOVACIÓN",
                 "SIMULACIÓN DE SISTEMAS"
             ]
+        },
+        {
+            "fecha": "27/08/2026 15:13",
+            "agregados": [],
+            "retirados": [
+                "COMPLEMENTO ESPECIALIZADO"
+            ]
         }
     ],
     "0332231031": [
@@ -1174,6 +1198,13 @@
                 "GESTION DE CALIDAD",
                 "INGENIERÍA DE PROCESOS",
                 "EMPRENDIMIENTO E INNOVACIÓN"
+            ]
+        },
+        {
+            "fecha": "27/08/2026 15:13",
+            "agregados": [],
+            "retirados": [
+                "COMPLEMENTO ESPECIALIZADO"
             ]
         }
     ],
@@ -1456,6 +1487,13 @@
                 "EMPRENDIMIENTO E INNOVACIÓN",
                 "SIMULACIÓN DE SISTEMAS"
             ]
+        },
+        {
+            "fecha": "27/08/2026 15:13",
+            "agregados": [],
+            "retirados": [
+                "COMPLEMENTO ESPECIALIZADO"
+            ]
         }
     ],
     "0332231039": [],
@@ -1668,6 +1706,13 @@
                 "COMPLEMENTO ESPECIALIZADO"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/08/2026 15:13",
+            "agregados": [],
+            "retirados": [
+                "COMPLEMENTO ESPECIALIZADO"
+            ]
         }
     ],
     "0332231044": [
@@ -1829,6 +1874,13 @@
                 "GESTION DE CALIDAD"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/08/2026 15:13",
+            "agregados": [],
+            "retirados": [
+                "COMPLEMENTO ESPECIALIZADO"
+            ]
         }
     ],
     "0332222032": [
@@ -1994,6 +2046,13 @@
                 "COMPLEMENTO ESPECIALIZADO"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/08/2026 15:13",
+            "agregados": [],
+            "retirados": [
+                "COMPLEMENTO ESPECIALIZADO"
+            ]
         }
     ],
     "0332222034": [

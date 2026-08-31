@@ -744,8 +744,9 @@
         "nom": "RODRIGUEZ GAMARRA RODRIGO ALONSO",
         "cod": "0332231041",
         "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
             "ESTADISTICA EXPERIMENTAL",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
             "INGENIERÍA DE PROCESOS",
             "INGLÉS III",
             "LEGISLACIÓN INFORMÁTICA",
@@ -915,12 +916,12 @@
         "cod": "0332222030",
         "cursos": [
             "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
-            "EMPRENDIMIENTO E INNOVACIÓN",
             "GESTION DE CALIDAD",
             "GESTION DE PROYECTOS DE TI",
             "INGENIERÍA DE PROCESOS",
             "LEGISLACIÓN INFORMÁTICA",
-            "PROYECTOS DE TESIS"
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
         ],
         "grupo": "Ciclo 2022-2"
     },

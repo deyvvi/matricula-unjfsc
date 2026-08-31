@@ -1545,6 +1545,16 @@
                 "ESTADISTICA EXPERIMENTAL"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "31/08/2026 17:38",
+            "agregados": [
+                "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+                "EMPRENDIMIENTO E INNOVACIÓN"
+            ],
+            "retirados": [
+                "COMPLEMENTO ESPECIALIZADO"
+            ]
         }
     ],
     "0332231042": [
@@ -1829,6 +1839,15 @@
                 "GESTION DE CALIDAD"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "31/08/2026 17:38",
+            "agregados": [
+                "TOMA DE DESICIONES"
+            ],
+            "retirados": [
+                "EMPRENDIMIENTO E INNOVACIÓN"
+            ]
         }
     ],
     "0332222031": [

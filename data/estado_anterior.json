@@ -1,530 +1,1039 @@
 [
     {
-        "nom": "No encontrado",
-        "cod": "0332141012",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
+        "nom": "ABARCA SANCHEZ JHAMIR ALEXANDER",
+        "cod": "0332231011",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "INVESTIGACION OPERATIVA II",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "SISTEMAS DE EXPERTOS"
+        ],
+        "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
-        "cod": "0332161012",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
+        "nom": "ACUÑA ROJAS GIANFRANCO JAIR",
+        "cod": "0332231012",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "ALVA ARQUIÑIGO DENNIS ULISES",
         "cod": "0332222001",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "DESARROLLO DE SISTEMAS DE INFORMACION",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "No encontrado",
+        "nom": "ALVA VALLADARES LUIS ANTHONY",
         "cod": "0332222002",
         "cursos": [],
         "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "No encontrado",
+        "nom": "ALVARADO POMA BRYAN FAUSTO",
+        "cod": "0332231006",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "ALVARADO POZO GENESIS GERALDINE",
         "cod": "0332222003",
-        "cursos": [],
+        "cursos": [
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "GESTION DE CALIDAD",
+            "INFORMATION TECHNOLOGY AUDIT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "No encontrado",
+        "nom": "ARANIBAR TAMARA FRANKLIN RUSBEL",
         "cod": "0332222004",
-        "cursos": [],
+        "cursos": [
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "No encontrado",
+        "nom": "ARMAS DEXTRE CRISTHOFER AMADOR",
+        "cod": "0332231013",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "SEGURIDAD INFORMATICA",
+            "TOMA DE DESICIONES",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "ARRARTE CHINGA CARLOS AUGUSTO",
         "cod": "0332222005",
         "cursos": [],
         "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "No encontrado",
+        "nom": "ASENCIOS OBREGON DAVID IMANOL",
         "cod": "0332222006",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
         "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "No encontrado",
-        "cod": "0332222007",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
+        "nom": "AYALA RAMIREZ JOHNNY FABRIZIO",
+        "cod": "0332231014",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "SIMULACIÓN DE SISTEMAS",
+            "TOMA DE DESICIONES",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
-        "cod": "0332222008",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222009",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222010",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222011",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222012",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222013",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222014",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222015",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222016",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222017",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222018",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222019",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222020",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222021",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222022",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222023",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222024",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222025",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222026",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222027",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222028",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222029",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222030",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222031",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222032",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222033",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222034",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
+        "nom": "BAUTISTA BARRERA CRISTHIAN GIANFRANCO",
         "cod": "0332231001",
         "cursos": [],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
-        "cod": "0332231002",
-        "cursos": [],
+        "nom": "BAZALAR MINAYA LUIS ALEXANDER",
+        "cod": "0332222007",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "SEGURIDAD INFORMATICA",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "CARRASCO LAZARO DEYVI BECKHAN",
+        "cod": "0332222008",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "CASTRO GARCIA SERGIO DANEK",
+        "cod": "0332231016",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "GERENCIA ESTRATEGICA DE TI",
+            "INTELIGENCIA DE NEGOCIOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "SISTEMAS DE EXPERTOS"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
-        "cod": "0332231003",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231004",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231005",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231006",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
+        "nom": "CAUSO CISNEROS JAIR EMANUEL",
         "cod": "0332231007",
         "cursos": [],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "CAUSSO MARILUZ JOSEPH GIOVANNI",
+        "cod": "0332231017",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "INVESTIGACION OPERATIVA II",
+            "LEGISLACIÓN INFORMÁTICA",
+            "TALLER DE ARTE",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "CAYCHO CARRILLO ADRIANO STEFANO",
+        "cod": "0332231018",
+        "cursos": [
+            "COMPRENSIÓN Y REDACCIÓN DE TEXTOS",
+            "CÁLCULO DIFERENCIAL",
+            "ESTADÍSTICA DESCRIPTIVA",
+            "ESTADÍSTICA DESCRIPTIVA",
+            "INGLES II",
+            "METODOLOGÍA DE LOS SISTEMAS BLANDOS",
+            "PROGRAMACIÓN ORIENTADA A OBJETOS"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "CAÑA JIMENEZ FRANYER ALEXANDER",
+        "cod": "0332231015",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "CHAVEZ RIOJAS JUAN MANUEL",
+        "cod": "0332161012",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "SEGURIDAD INFORMATICA",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "CORONADO YANAC RODRIGO ALBERTO",
+        "cod": "0332231019",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "SIMULACIÓN DE SISTEMAS",
+            "TOMA DE DESICIONES",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "COSME CAMONES NAZARETH EMIR ALAIN",
         "cod": "0332231008",
         "cursos": [],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
-        "cod": "0332231009",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
+        "nom": "DE LA CRUZ RAMIREZ MAYTIN JOSE",
+        "cod": "0332141012",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "SEGURIDAD INFORMATICA"
+        ],
+        "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "No encontrado",
-        "cod": "0332231010",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
+        "nom": "DELGADO SANTOS DIEGO ANTONIO",
+        "cod": "0332222009",
+        "cursos": [
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "INFORMATION TECHNOLOGY AUDIT (IN ENGLISH)",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "No encontrado",
-        "cod": "0332231011",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231012",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231013",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231014",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231015",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231016",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231017",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231018",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231019",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
+        "nom": "DIAZ HUACHO ANGIE JUVIRY",
         "cod": "0332231020",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "GESTION DEL CONOCIMIENTO",
+            "INFORMATION TECHNOLOGY AUDIT (IN ENGLISH)",
+            "OPERATION MANAGEMENT (IN ENGLISH)",
+            "PRACTICA PRE PROFESIONAL"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "DORCA CARHUACHIN CHARLY JOSE",
+        "cod": "0332222010",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "ESPINOZA ALVINO BENJHY ZAITH",
+        "cod": "0332222011",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "ESPINOZA JARAMILLO JUAN DIEGO",
         "cod": "0332231021",
         "cursos": [],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "ESPINOZA POMA ROYEL DIEGO",
+        "cod": "0332222012",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "EVANGELISTA SIFUENTES RAUL YHAMPIHER",
         "cod": "0332231022",
         "cursos": [],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "FUJINO TINOCO FABIANA ALESSANDRA",
+        "cod": "0332231002",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "SIMULACIÓN DE SISTEMAS",
+            "SISTEMAS DE EXPERTOS",
+            "TOMA DE DESICIONES",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "GAMARRA COLLA CHRISTIAN ALEXIS",
         "cod": "0332231023",
-        "cursos": [],
+        "cursos": [
+            "CALIDAD DE SERVICIOS DE TI",
+            "COMPLEMENTO ESPECIALIZADO",
+            "GERENCIA ESTRATEGICA DE TI",
+            "HERRAMIENTAS DE DESARROLLO WEB",
+            "INVESTIGACION OPERATIVA II",
+            "LEGISLACIÓN INFORMÁTICA",
+            "REALIDAD NACIONAL E INTERNACIONAL",
+            "SISTEMAS DE EXPERTOS",
+            "TALLER DE ARTE"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "GUTIERREZ FERNANDEZ ANGELO PIERO",
         "cod": "0332231024",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INVESTIGACION OPERATIVA II",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "SISTEMAS DE EXPERTOS",
+            "TALLER DE ARTE"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "HUAMAN QUINECHE EDWIN GIANCARLO",
         "cod": "0332231025",
-        "cursos": [],
+        "cursos": [
+            "CALIDAD DE SERVICIOS DE TI",
+            "DESARROLLO DE SISTEMAS DE INFORMACION",
+            "HERRAMIENTAS DE DESARROLLO WEB",
+            "INTELIGENCIA DE NEGOCIOS",
+            "INVESTIGACION OPERATIVA",
+            "PLANEAMIENTO ESTRATEGICO DE TI"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "IDIAQUEZ GOMEZ LUIS ADRIANO",
         "cod": "0332231026",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "INVESTIGACION OPERATIVA II",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "JARA CASTILLO FRANKLIN ANTONIO",
+        "cod": "0332222013",
+        "cursos": [
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "SEGURIDAD INFORMATICA",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "LARIANCO ALARCON ISMAEL ALEXANDER",
         "cod": "0332231027",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "INVESTIGACION OPERATIVA II",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SISTEMAS DE EXPERTOS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "LEANDRO CARBAJAL WALDIR MIGUEL",
         "cod": "0332231028",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "LESCANO MALDONADO JESUS MARTIN",
+        "cod": "0332231009",
         "cursos": [],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "LUDGARDO LOPEZ PIEROL ALDAIR",
+        "cod": "0332222014",
+        "cursos": [
+            "FILOSOFIA DE LA CIENCIA Y DE LA TECNOLOGIA",
+            "INGLÉS III",
+            "ORGANIZACIÓN Y DIRECCIÓN DE PERSONAS",
+            "ÉTICA Y RESPONSABILIDAD SOCIAL Y AMBIENTAL"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "MARTINEZ SANCHEZ ROBERTO SMIDT",
         "cod": "0332231029",
-        "cursos": [],
+        "cursos": [
+            "OPERATION MANAGEMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "MAYHUA CARRERA YERIMI JARED",
+        "cod": "0332222015",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "LEGISLACIÓN INFORMÁTICA",
+            "PROYECTOS DE TESIS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "MEDRANO TOLEDO GIANCARLO YOFRE",
         "cod": "0332231030",
-        "cursos": [],
+        "cursos": [
+            "CALIDAD DE SERVICIOS DE TI",
+            "GERENCIA ESTRATEGICA DE TI",
+            "INTELIGENCIA DE NEGOCIOS",
+            "INVESTIGACION OPERATIVA II",
+            "REALIDAD NACIONAL E INTERNACIONAL",
+            "SISTEMAS DE EXPERTOS",
+            "TALLER DE ARTE"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "MESTANZA ORTIZ JHULY DANY",
+        "cod": "0332222016",
+        "cursos": [
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "MIRANDA LUPA VICTORANDRE ELIAS",
         "cod": "0332231031",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "MOLINA AYALA JOSE CARLOS",
         "cod": "0332231032",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "INVESTIGACION OPERATIVA II",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "MONTENEGRO VARGAS LUIS JAREN",
         "cod": "0332231033",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "SEGURIDAD INFORMATICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "TOMA DE DESICIONES",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "MORALES PEÑA ANGEL GABRIEL",
+        "cod": "0332222017",
+        "cursos": [
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE PROYECTOS DE TI",
+            "GESTION DEL CONOCIMIENTO",
+            "PRACTICA PRE PROFESIONAL",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "MORALES SUSANIBAR GABRIEL EDUARDO",
         "cod": "0332231034",
-        "cursos": [],
+        "cursos": [
+            "CALIDAD DE SERVICIOS DE TI",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INTELIGENCIA DE NEGOCIOS",
+            "INVESTIGACION OPERATIVA II",
+            "LEGISLACIÓN INFORMÁTICA",
+            "PLANEAMIENTO ESTRATEGICO DE TI",
+            "SISTEMAS DE EXPERTOS"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "NAZARIO GERÓNIMO LUIS ANTHONY",
+        "cod": "0332222018",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "GESTION DEL CONOCIMIENTO",
+            "OPERATION MANAGEMENT (IN ENGLISH)",
+            "PRACTICA PRE PROFESIONAL",
+            "PROYECTOS DE TESIS"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "ORTEGA ZEVALLOS RONALDO",
+        "cod": "0332222019",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "ORTIZ IBAÑEZ MARLOWN CESAR",
+        "cod": "0332222020",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "OSIO CHAVEZ LUIS RODRIGO",
         "cod": "0332231035",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "SIMULACIÓN DE SISTEMAS",
+            "TOMA DE DESICIONES",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "PACHECO RIVERA JAN FRANK RODRIGO",
         "cod": "0332231036",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "PAPA REYES JOSE CARLOS",
         "cod": "0332231037",
         "cursos": [],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
-        "cod": "0332231038",
-        "cursos": [],
+        "nom": "PAREDES PACHECO FABIANI ARMANDO",
+        "cod": "0332222021",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE PROYECTOS DE TI",
+            "PRACTICA PRE PROFESIONAL",
+            "PROYECTOS DE TESIS"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "PEREZ LA ROSA LEONARDO GABRIEL",
+        "cod": "0332222022",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "PEÑA MEJIA CHRISTIAN PAOLO",
+        "cod": "0332231048",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DESARROLLO DE SISTEMAS DE INFORMACION",
+            "HERRAMIENTAS DE DESARROLLO WEB",
+            "INTELIGENCIA DE NEGOCIOS",
+            "INVESTIGACION OPERATIVA",
+            "REALIDAD NACIONAL E INTERNACIONAL",
+            "REDES Y COMUNICACIONES"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "PEÑA RAMIREZ FRANKLIN WILLY",
+        "cod": "0332231038",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "PINTO CHUMPITAZ ANGEL JAIR",
+        "cod": "0332222023",
+        "cursos": [
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "QUIROZ PAICO JEAN PIERE ANTONIO",
         "cod": "0332231039",
         "cursos": [],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "RETUERTO GARCIA ALFREDO SEBASTIAN",
+        "cod": "0332231003",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "RODRIGUEZ BAÑEZ MISSAEL ROGGER",
         "cod": "0332231040",
         "cursos": [],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "RODRIGUEZ GAMARRA RODRIGO ALONSO",
         "cod": "0332231041",
-        "cursos": [],
+        "cursos": [
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "ESTADISTICA EXPERIMENTAL",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "INGLÉS III",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SISTEMAS DE EXPERTOS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "ROMERO DIAZ JEAN CARLOS RAUL",
         "cod": "0332231042",
-        "cursos": [],
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "SEGURIDAD INFORMATICA"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
-        "cod": "0332231043",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
+        "nom": "ROMERO GARAY ALEX DUNCAN",
+        "cod": "0332222024",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "No encontrado",
-        "cod": "0332231044",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231045",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231046",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231047",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231048",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
+        "nom": "RUIZ SAAVEDRA RICARDO STEVEN",
         "cod": "0332231049",
-        "cursos": [],
+        "cursos": [
+            "CALIDAD DE SERVICIOS DE TI",
+            "COMPLEMENTO ESPECIALIZADO",
+            "DESARROLLO DE SISTEMAS DE INFORMACION",
+            "HERRAMIENTAS DE DESARROLLO WEB",
+            "INVESTIGACION OPERATIVA",
+            "PLANEAMIENTO ESTRATEGICO DE TI",
+            "REALIDAD NACIONAL E INTERNACIONAL",
+            "REDES Y COMUNICACIONES"
+        ],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "RUIZ SANCHEZ PEDRO JOSE HUMBERTO",
+        "cod": "0332231004",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "SIMULACIÓN DE SISTEMAS",
+            "TOMA DE DESICIONES",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "SANCHEZ CALIXTO MAYCOHOL EMELDO",
+        "cod": "0332231043",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "SANCHEZ LOZA AGUSTIN ALONSO",
+        "cod": "0332222025",
+        "cursos": [
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "SANDOVAL FLORES MATHIAS LEONARDO",
+        "cod": "0332231044",
+        "cursos": [
+            "ANALISIS Y DISEÑO DE SISTEMAS DE INFORMACION",
+            "CALCULO NUMERICO",
+            "DINÁMICAS DE SISTEMAS",
+            "IMPLEMENTACIÓN Y GESTIÓN DE BASES DE DATOS",
+            "MARKETING DIGITAL",
+            "ORGANIZACIÓN Y DIRECCIÓN DE PERSONAS",
+            "ÉTICA Y RESPONSABILIDAD SOCIAL Y AMBIENTAL"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "SILVA MEDINA ANGELO MANUEL",
+        "cod": "0332222026",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "SOLIS SOTO ERIC JHAIR",
+        "cod": "0332231045",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "TORRES GARCIA JEROCK DAVID",
+        "cod": "0332222027",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "TORRES SANTA CRUZ DAYRON ALBERTO",
         "cod": "0332231050",
         "cursos": [],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
+        "nom": "TORRES VILLALOBOS FERNANDO JULIAN",
         "cod": "0332231051",
         "cursos": [],
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "No encontrado",
-        "cod": "0332231052",
+        "nom": "VALDIVIA JUSTO CHRISTIAN ANGEL",
+        "cod": "0332222028",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "VALVERDE PADILLA MARTIN GIOVANNY",
+        "cod": "0332222029",
         "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "VEGA ELGUERA FERNANDO LUIS",
+        "cod": "0332222030",
+        "cursos": [
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "VENTURA SANTOS RONALDINO ROMARIO",
+        "cod": "0332222031",
+        "cursos": [
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "VERAMENDI BORJA LUIS FERNANDO",
+        "cod": "0332222032",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "GESTION DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "VILLANUEVA CANALES LUIS ALESSANDRO",
+        "cod": "0332231052",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DESARROLLO DE SISTEMAS DE INFORMACION",
+            "HERRAMIENTAS DE DESARROLLO WEB",
+            "INVESTIGACION OPERATIVA",
+            "PLANEAMIENTO ESTRATEGICO DE TI",
+            "REALIDAD NACIONAL E INTERNACIONAL",
+            "REDES Y COMUNICACIONES"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "VITE VIDAL JOSE CARLOS",
+        "cod": "0332231010",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "YAURI TADEO SEBASTIAN MIGUEL",
+        "cod": "0332231046",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "SISTEMAS DE EXPERTOS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "YAUYO MATEO ALEXIS YOJANG",
+        "cod": "0332231047",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "ZARATE GRANADOS AXEL FARID",
+        "cod": "0332222033",
+        "cursos": [
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "ZARDAN GARCIA DIEGO ALEXANDER",
+        "cod": "0332222034",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "SEGURIDAD INFORMATICA",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "ZUÑIGA QUINECHE MIJAEL SNAIDERT",
+        "cod": "0332231005",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "GERENCIA ESTRATEGICA DE TI",
+            "GESTION DE PROYECTOS DE TI",
+            "INVESTIGACION OPERATIVA II",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "SISTEMAS DE EXPERTOS",
+            "TALLER DE ARTE",
+            "TOMA DE DESICIONES"
+        ],
         "grupo": "Ciclo 2023-1"
     }
 ]

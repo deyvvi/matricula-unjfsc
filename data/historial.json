@@ -204,6 +204,19 @@
                 "INGENIERÍA DE PROCESOS"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INGENIERÍA DE PROCESOS",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO",
+                "SIMULACIÓN DE SISTEMAS",
+                "LEGISLACIÓN INFORMÁTICA",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+            ],
+            "retirados": []
         }
     ],
     "0332222003": [
@@ -266,6 +279,16 @@
                 "EMPRENDIMIENTO E INNOVACIÓN"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INFORMATION TECHNOLOGY AUDIT (IN ENGLISH)",
+                "GESTION DE CALIDAD",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "EMPRENDIMIENTO E INNOVACIÓN"
+            ],
+            "retirados": []
         }
     ],
     "0332222004": [
@@ -314,6 +337,18 @@
                 "GESTION DE CALIDAD",
                 "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
                 "TOMA DE DESICIONES",
+                "PROYECTOS DE TESIS"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "GESTION DE CALIDAD",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "TOMA DE DESICIONES",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "GESTION DE PROYECTOS DE TI",
                 "PROYECTOS DE TESIS"
             ],
             "retirados": []
@@ -426,6 +461,19 @@
                 "GESTION DE CALIDAD",
                 "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
                 "TOMA DE DESICIONES",
+                "PROYECTOS DE TESIS"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "GESTION DE CALIDAD",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "TOMA DE DESICIONES",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "GESTION DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO",
                 "PROYECTOS DE TESIS"
             ],
             "retirados": []
@@ -576,6 +624,19 @@
                 "GESTION DE CALIDAD",
                 "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
                 "TOMA DE DESICIONES",
+                "PROYECTOS DE TESIS"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "GESTION DE CALIDAD",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "TOMA DE DESICIONES",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "GESTION DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO",
                 "PROYECTOS DE TESIS"
             ],
             "retirados": []
@@ -1065,6 +1126,18 @@
                 "PROYECTOS DE TESIS"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "GESTION DE CALIDAD",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "TOMA DE DESICIONES",
+                "INFORMATION TECHNOLOGY AUDIT (IN ENGLISH)",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "PROYECTOS DE TESIS"
+            ],
+            "retirados": []
         }
     ],
     "0332231020": [
@@ -1117,6 +1190,17 @@
                 "PRACTICA PRE PROFESIONAL",
                 "OPERATION MANAGEMENT (IN ENGLISH)",
                 "GESTION DEL CONOCIMIENTO"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "GESTION DEL CONOCIMIENTO",
+                "INFORMATION TECHNOLOGY AUDIT (IN ENGLISH)",
+                "PRACTICA PRE PROFESIONAL",
+                "OPERATION MANAGEMENT (IN ENGLISH)",
+                "COMPLEMENTO ESPECIALIZADO"
             ],
             "retirados": []
         }
@@ -1270,6 +1354,19 @@
                 "TOMA DE DESICIONES"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INGENIERÍA DE PROCESOS",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "TOMA DE DESICIONES",
+                "SISTEMAS DE EXPERTOS",
+                "COMPLEMENTO ESPECIALIZADO",
+                "SIMULACIÓN DE SISTEMAS",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+            ],
+            "retirados": []
         }
     ],
     "0332231023": [
@@ -1318,6 +1415,21 @@
                 "CALIDAD DE SERVICIOS DE TI",
                 "HERRAMIENTAS DE DESARROLLO WEB",
                 "TALLER DE ARTE"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INVESTIGACION OPERATIVA II",
+                "HERRAMIENTAS DE DESARROLLO WEB",
+                "GERENCIA ESTRATEGICA DE TI",
+                "SISTEMAS DE EXPERTOS",
+                "CALIDAD DE SERVICIOS DE TI",
+                "TALLER DE ARTE",
+                "REALIDAD NACIONAL E INTERNACIONAL",
+                "COMPLEMENTO ESPECIALIZADO",
+                "LEGISLACIÓN INFORMÁTICA"
             ],
             "retirados": []
         }
@@ -1380,6 +1492,19 @@
                 "TALLER DE ARTE"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INVESTIGACION OPERATIVA II",
+                "SISTEMAS DE EXPERTOS",
+                "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+                "TALLER DE ARTE",
+                "COMPLEMENTO ESPECIALIZADO",
+                "SIMULACIÓN DE SISTEMAS",
+                "LEGISLACIÓN INFORMÁTICA"
+            ],
+            "retirados": []
         }
     ],
     "0332231025": [
@@ -1422,6 +1547,18 @@
                 "INVESTIGACION OPERATIVA",
                 "INTELIGENCIA DE NEGOCIOS",
                 "HERRAMIENTAS DE DESARROLLO WEB"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INTELIGENCIA DE NEGOCIOS",
+                "HERRAMIENTAS DE DESARROLLO WEB",
+                "PLANEAMIENTO ESTRATEGICO DE TI",
+                "CALIDAD DE SERVICIOS DE TI",
+                "DESARROLLO DE SISTEMAS DE INFORMACION",
+                "INVESTIGACION OPERATIVA"
             ],
             "retirados": []
         }
@@ -1562,6 +1699,20 @@
                 "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
                 "INVESTIGACION OPERATIVA II",
                 "INGENIERÍA DE PROCESOS"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INGENIERÍA DE PROCESOS",
+                "INVESTIGACION OPERATIVA II",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "SISTEMAS DE EXPERTOS",
+                "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO",
+                "LEGISLACIÓN INFORMÁTICA",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
             ],
             "retirados": []
         }
@@ -1764,6 +1915,20 @@
                 "PROYECTOS DE TESIS"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "GESTION DE CALIDAD",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "GESTION DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO",
+                "LEGISLACIÓN INFORMÁTICA",
+                "PROYECTOS DE TESIS"
+            ],
+            "retirados": []
         }
     ],
     "0332231030": [
@@ -1817,6 +1982,19 @@
                 "INTELIGENCIA DE NEGOCIOS",
                 "REALIDAD NACIONAL E INTERNACIONAL",
                 "TALLER DE ARTE"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INTELIGENCIA DE NEGOCIOS",
+                "INVESTIGACION OPERATIVA II",
+                "GERENCIA ESTRATEGICA DE TI",
+                "SISTEMAS DE EXPERTOS",
+                "CALIDAD DE SERVICIOS DE TI",
+                "TALLER DE ARTE",
+                "REALIDAD NACIONAL E INTERNACIONAL"
             ],
             "retirados": []
         }
@@ -1946,6 +2124,19 @@
                 "EMPRENDIMIENTO E INNOVACIÓN",
                 "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
                 "INGENIERÍA DE PROCESOS"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INGENIERÍA DE PROCESOS",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO",
+                "SIMULACIÓN DE SISTEMAS",
+                "LEGISLACIÓN INFORMÁTICA",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
             ],
             "retirados": []
         }
@@ -2093,6 +2284,19 @@
                 "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
                 "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
                 "TOMA DE DESICIONES",
+                "PROYECTOS DE TESIS"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "GESTION DEL CONOCIMIENTO",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "TOMA DE DESICIONES",
+                "PRACTICA PRE PROFESIONAL",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "GESTION DE PROYECTOS DE TI",
                 "PROYECTOS DE TESIS"
             ],
             "retirados": []
@@ -2371,6 +2575,18 @@
                 "PROYECTOS DE TESIS"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "PRACTICA PRE PROFESIONAL",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "GESTION DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO",
+                "PROYECTOS DE TESIS"
+            ],
+            "retirados": []
         }
     ],
     "0332222022": [
@@ -2486,6 +2702,19 @@
                 "INTELIGENCIA DE NEGOCIOS",
                 "HERRAMIENTAS DE DESARROLLO WEB",
                 "REALIDAD NACIONAL E INTERNACIONAL"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INTELIGENCIA DE NEGOCIOS",
+                "HERRAMIENTAS DE DESARROLLO WEB",
+                "REDES Y COMUNICACIONES",
+                "DESARROLLO DE SISTEMAS DE INFORMACION",
+                "COMPLEMENTO ESPECIALIZADO",
+                "REALIDAD NACIONAL E INTERNACIONAL",
+                "INVESTIGACION OPERATIVA"
             ],
             "retirados": []
         }
@@ -2681,6 +2910,20 @@
                 "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INGENIERÍA DE PROCESOS",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "INGLÉS III",
+                "SISTEMAS DE EXPERTOS",
+                "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+                "LEGISLACIÓN INFORMÁTICA",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)",
+                "ESTADISTICA EXPERIMENTAL"
+            ],
+            "retirados": []
         }
     ],
     "0332231042": [
@@ -2845,6 +3088,20 @@
                 "REALIDAD NACIONAL E INTERNACIONAL"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "HERRAMIENTAS DE DESARROLLO WEB",
+                "PLANEAMIENTO ESTRATEGICO DE TI",
+                "REDES Y COMUNICACIONES",
+                "CALIDAD DE SERVICIOS DE TI",
+                "DESARROLLO DE SISTEMAS DE INFORMACION",
+                "COMPLEMENTO ESPECIALIZADO",
+                "REALIDAD NACIONAL E INTERNACIONAL",
+                "INVESTIGACION OPERATIVA"
+            ],
+            "retirados": []
         }
     ],
     "0332231004": [
@@ -2883,6 +3140,18 @@
                 "EMPRENDIMIENTO E INNOVACIÓN",
                 "INGENIERÍA DE PROCESOS",
                 "TOMA DE DESICIONES",
+                "SIMULACIÓN DE SISTEMAS",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INGENIERÍA DE PROCESOS",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "TOMA DE DESICIONES",
+                "COMPLEMENTO ESPECIALIZADO",
                 "SIMULACIÓN DE SISTEMAS",
                 "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
             ],
@@ -2977,6 +3246,18 @@
                 "PROYECTOS DE TESIS"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "GESTION DE CALIDAD",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "TOMA DE DESICIONES",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "GESTION DE PROYECTOS DE TI",
+                "PROYECTOS DE TESIS"
+            ],
+            "retirados": []
         }
     ],
     "0332231044": [
@@ -3033,6 +3314,19 @@
                 "ÉTICA Y RESPONSABILIDAD SOCIAL Y AMBIENTAL"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "ANALISIS Y DISEÑO DE SISTEMAS DE INFORMACION",
+                "ORGANIZACIÓN Y DIRECCIÓN DE PERSONAS",
+                "DINÁMICAS DE SISTEMAS",
+                "IMPLEMENTACIÓN Y GESTIÓN DE BASES DE DATOS",
+                "MARKETING DIGITAL",
+                "CALCULO NUMERICO",
+                "ÉTICA Y RESPONSABILIDAD SOCIAL Y AMBIENTAL"
+            ],
+            "retirados": []
         }
     ],
     "0332222026": [],
@@ -3076,6 +3370,18 @@
                 "EMPRENDIMIENTO E INNOVACIÓN",
                 "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
                 "INGENIERÍA DE PROCESOS"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INGENIERÍA DE PROCESOS",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO",
+                "LEGISLACIÓN INFORMÁTICA",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
             ],
             "retirados": []
         }
@@ -3141,6 +3447,19 @@
                 "PROYECTOS DE TESIS"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "GESTION DE CALIDAD",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "TOMA DE DESICIONES",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "GESTION DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO",
+                "PROYECTOS DE TESIS"
+            ],
+            "retirados": []
         }
     ],
     "0332222029": [],
@@ -3201,6 +3520,19 @@
                 "INGENIERÍA DE PROCESOS",
                 "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
                 "TOMA DE DESICIONES",
+                "PROYECTOS DE TESIS"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INGENIERÍA DE PROCESOS",
+                "GESTION DE CALIDAD",
+                "TOMA DE DESICIONES",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "GESTION DE PROYECTOS DE TI",
+                "LEGISLACIÓN INFORMÁTICA",
                 "PROYECTOS DE TESIS"
             ],
             "retirados": []
@@ -3280,6 +3612,18 @@
                 "PROYECTOS DE TESIS"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "GESTION DE CALIDAD",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "TOMA DE DESICIONES",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "GESTION DE PROYECTOS DE TI",
+                "PROYECTOS DE TESIS"
+            ],
+            "retirados": []
         }
     ],
     "0332222032": [
@@ -3332,6 +3676,17 @@
                 "EMPRENDIMIENTO E INNOVACIÓN",
                 "GESTION DE PROYECTOS DE TI",
                 "INGENIERÍA DE PROCESOS"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INGENIERÍA DE PROCESOS",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "GESTION DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
             ],
             "retirados": []
         }
@@ -3405,6 +3760,19 @@
                 "INVESTIGACION OPERATIVA",
                 "HERRAMIENTAS DE DESARROLLO WEB",
                 "REALIDAD NACIONAL E INTERNACIONAL"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "PLANEAMIENTO ESTRATEGICO DE TI",
+                "HERRAMIENTAS DE DESARROLLO WEB",
+                "REDES Y COMUNICACIONES",
+                "DESARROLLO DE SISTEMAS DE INFORMACION",
+                "COMPLEMENTO ESPECIALIZADO",
+                "REALIDAD NACIONAL E INTERNACIONAL",
+                "INVESTIGACION OPERATIVA"
             ],
             "retirados": []
         }
@@ -3538,6 +3906,18 @@
                 "PROYECTOS DE TESIS"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "GESTION DE CALIDAD",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "TOMA DE DESICIONES",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "GESTION DE PROYECTOS DE TI",
+                "PROYECTOS DE TESIS"
+            ],
+            "retirados": []
         }
     ],
     "0332222034": [
@@ -3649,6 +4029,21 @@
                 "INVESTIGACION OPERATIVA II",
                 "TOMA DE DESICIONES",
                 "TALLER DE ARTE"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "27/10/2026 20:03",
+            "agregados": [
+                "INVESTIGACION OPERATIVA II",
+                "TOMA DE DESICIONES",
+                "GERENCIA ESTRATEGICA DE TI",
+                "GESTION DE PROYECTOS DE TI",
+                "SISTEMAS DE EXPERTOS",
+                "TALLER DE ARTE",
+                "COMPLEMENTO ESPECIALIZADO",
+                "SIMULACIÓN DE SISTEMAS",
+                "LEGISLACIÓN INFORMÁTICA"
             ],
             "retirados": []
         }

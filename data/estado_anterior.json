@@ -1,20 +1,5 @@
 [
     {
-        "nom": "ABARCA SANCHEZ JHAMIR ALEXANDER",
-        "cod": "0332231011",
-        "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "COMPLEMENTO ESPECIALIZADO",
-            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
-            "INGENIERÍA DE PROCESOS",
-            "INVESTIGACION OPERATIVA II",
-            "LEGISLACIÓN INFORMÁTICA",
-            "SIMULACIÓN DE SISTEMAS",
-            "SISTEMAS DE EXPERTOS"
-        ],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
         "nom": "ACUÑA ROJAS GIANFRANCO JAIR",
         "cod": "0332231012",
         "cursos": [
@@ -27,20 +12,6 @@
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
         "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "ALVA ARQUIÑIGO DENNIS ULISES",
-        "cod": "0332222001",
-        "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "COMPLEMENTO ESPECIALIZADO",
-            "DESARROLLO DE SISTEMAS DE INFORMACION",
-            "EMPRENDIMIENTO E INNOVACIÓN",
-            "INGENIERÍA DE PROCESOS",
-            "LEGISLACIÓN INFORMÁTICA",
-            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
-        ],
-        "grupo": "Ciclo 2022-2"
     },
     {
         "nom": "ALVA VALLADARES LUIS ANTHONY",
@@ -99,26 +70,6 @@
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
         "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "ARRARTE CHINGA CARLOS AUGUSTO",
-        "cod": "0332222005",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "ASENCIOS OBREGON DAVID IMANOL",
-        "cod": "0332222006",
-        "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
-            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
-            "GESTION DE CALIDAD",
-            "GESTION DE PROYECTOS DE TI",
-            "PROYECTOS DE TESIS",
-            "TOMA DE DESICIONES"
-        ],
-        "grupo": "Ciclo 2022-2"
     },
     {
         "nom": "AYALA RAMIREZ JOHNNY FABRIZIO",
@@ -230,21 +181,6 @@
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
         "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "CHAVEZ RIOJAS JUAN MANUEL",
-        "cod": "0332161012",
-        "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
-            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
-            "GESTION DE CALIDAD",
-            "GESTION DE PROYECTOS DE TI",
-            "PROYECTOS DE TESIS",
-            "SEGURIDAD INFORMATICA",
-            "TOMA DE DESICIONES"
-        ],
-        "grupo": "Ciclo 2022-2"
     },
     {
         "nom": "CORONADO YANAC RODRIGO ALBERTO",
@@ -374,21 +310,6 @@
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "GUTIERREZ FERNANDEZ ANGELO PIERO",
-        "cod": "0332231024",
-        "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "COMPLEMENTO ESPECIALIZADO",
-            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
-            "INVESTIGACION OPERATIVA II",
-            "LEGISLACIÓN INFORMÁTICA",
-            "SIMULACIÓN DE SISTEMAS",
-            "SISTEMAS DE EXPERTOS",
-            "TALLER DE ARTE"
-        ],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
         "nom": "HUAMAN QUINECHE EDWIN GIANCARLO",
         "cod": "0332231025",
         "cursos": [
@@ -428,21 +349,6 @@
             "TOMA DE DESICIONES"
         ],
         "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "LARIANCO ALARCON ISMAEL ALEXANDER",
-        "cod": "0332231027",
-        "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "EMPRENDIMIENTO E INNOVACIÓN",
-            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
-            "INGENIERÍA DE PROCESOS",
-            "INVESTIGACION OPERATIVA II",
-            "LEGISLACIÓN INFORMÁTICA",
-            "SISTEMAS DE EXPERTOS",
-            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
-        ],
-        "grupo": "Ciclo 2023-1"
     },
     {
         "nom": "LEANDRO CARBAJAL WALDIR MIGUEL",
@@ -609,14 +515,86 @@
         "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "ORTEGA ZEVALLOS RONALDO",
-        "cod": "0332222019",
+        "nom": "No encontrado",
+        "cod": "0332161012",
         "cursos": [],
         "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "ORTIZ IBAÑEZ MARLOWN CESAR",
+        "nom": "No encontrado",
+        "cod": "0332222001",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332222005",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332222006",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "No encontrado",
         "cod": "0332222020",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332222031",
+        "cursos": [],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231003",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231010",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231011",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231024",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231027",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231037",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "No encontrado",
+        "cod": "0332231043",
+        "cursos": [],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "ORTEGA ZEVALLOS RONALDO",
+        "cod": "0332222019",
         "cursos": [],
         "grupo": "Ciclo 2022-2"
     },
@@ -645,12 +623,6 @@
             "SIMULACIÓN DE SISTEMAS",
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "PAPA REYES JOSE CARLOS",
-        "cod": "0332231037",
-        "cursos": [],
         "grupo": "Ciclo 2023-1"
     },
     {
@@ -729,12 +701,6 @@
         "grupo": "Ciclo 2023-1"
     },
     {
-        "nom": "RETUERTO GARCIA ALFREDO SEBASTIAN",
-        "cod": "0332231003",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
         "nom": "RODRIGUEZ BAÑEZ MISSAEL ROGGER",
         "cod": "0332231040",
         "cursos": [],
@@ -808,20 +774,6 @@
             "INGENIERÍA DE PROCESOS",
             "SIMULACIÓN DE SISTEMAS",
             "TOMA DE DESICIONES",
-            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
-        ],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "SANCHEZ CALIXTO MAYCOHOL EMELDO",
-        "cod": "0332231043",
-        "cursos": [
-            "COMPLEMENTO ESPECIALIZADO",
-            "COMPLEMENTO ESPECIALIZADO",
-            "EMPRENDIMIENTO E INNOVACIÓN",
-            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
-            "INGENIERÍA DE PROCESOS",
-            "LEGISLACIÓN INFORMÁTICA",
             "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
         ],
         "grupo": "Ciclo 2023-1"
@@ -926,19 +878,6 @@
         "grupo": "Ciclo 2022-2"
     },
     {
-        "nom": "VENTURA SANTOS RONALDINO ROMARIO",
-        "cod": "0332222031",
-        "cursos": [
-            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
-            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
-            "GESTION DE CALIDAD",
-            "GESTION DE PROYECTOS DE TI",
-            "PROYECTOS DE TESIS",
-            "TOMA DE DESICIONES"
-        ],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
         "nom": "VERAMENDI BORJA LUIS FERNANDO",
         "cod": "0332222032",
         "cursos": [
@@ -963,12 +902,6 @@
             "REALIDAD NACIONAL E INTERNACIONAL",
             "REDES Y COMUNICACIONES"
         ],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "VITE VIDAL JOSE CARLOS",
-        "cod": "0332231010",
-        "cursos": [],
         "grupo": "Ciclo 2023-1"
     },
     {

@@ -205,6 +205,33 @@
         "grupo": "Ciclo 2023-1"
     },
     {
+        "nom": "CAYCHO CARRILLO ADRIANO STEFANO",
+        "cod": "0332231018",
+        "cursos": [
+            "COMPRENSIÓN Y REDACCIÓN DE TEXTOS",
+            "CÁLCULO DIFERENCIAL",
+            "ESTADÍSTICA DESCRIPTIVA",
+            "ESTADÍSTICA DESCRIPTIVA",
+            "INGLES II",
+            "METODOLOGÍA DE LOS SISTEMAS BLANDOS",
+            "PROGRAMACIÓN ORIENTADA A OBJETOS"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
+        "nom": "CAÑA JIMENEZ FRANYER ALEXANDER",
+        "cod": "0332231015",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+            "INGENIERÍA DE PROCESOS",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
         "nom": "CHAVEZ RIOJAS JUAN MANUEL",
         "cod": "0332161012",
         "cursos": [
@@ -375,6 +402,20 @@
         "grupo": "Ciclo 2023-1"
     },
     {
+        "nom": "IDIAQUEZ GOMEZ LUIS ADRIANO",
+        "cod": "0332231026",
+        "cursos": [
+            "COMPLEMENTO ESPECIALIZADO",
+            "EMPRENDIMIENTO E INNOVACIÓN",
+            "INGENIERÍA DE PROCESOS",
+            "INVESTIGACION OPERATIVA II",
+            "LEGISLACIÓN INFORMÁTICA",
+            "SIMULACIÓN DE SISTEMAS",
+            "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
+        ],
+        "grupo": "Ciclo 2023-1"
+    },
+    {
         "nom": "JARA CASTILLO FRANKLIN ANTONIO",
         "cod": "0332222013",
         "cursos": [
@@ -472,6 +513,19 @@
         "grupo": "Ciclo 2023-1"
     },
     {
+        "nom": "MESTANZA ORTIZ JHULY DANY",
+        "cod": "0332222016",
+        "cursos": [
+            "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+            "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+            "GESTION DE CALIDAD",
+            "GESTION DE PROYECTOS DE TI",
+            "PROYECTOS DE TESIS",
+            "TOMA DE DESICIONES"
+        ],
+        "grupo": "Ciclo 2022-2"
+    },
+    {
         "nom": "MIRANDA LUPA VICTORANDRE ELIAS",
         "cod": "0332231031",
         "cursos": [
@@ -553,30 +607,6 @@
             "PROYECTOS DE TESIS"
         ],
         "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332222016",
-        "cursos": [],
-        "grupo": "Ciclo 2022-2"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231015",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231018",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
-    },
-    {
-        "nom": "No encontrado",
-        "cod": "0332231026",
-        "cursos": [],
-        "grupo": "Ciclo 2023-1"
     },
     {
         "nom": "ORTEGA ZEVALLOS RONALDO",

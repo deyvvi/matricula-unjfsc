@@ -825,6 +825,18 @@
                 "INGLES II"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "28/10/2026 03:02",
+            "agregados": [
+                "ESTADÍSTICA DESCRIPTIVA",
+                "COMPRENSIÓN Y REDACCIÓN DE TEXTOS",
+                "INGLES II",
+                "PROGRAMACIÓN ORIENTADA A OBJETOS",
+                "METODOLOGÍA DE LOS SISTEMAS BLANDOS",
+                "CÁLCULO DIFERENCIAL"
+            ],
+            "retirados": []
         }
     ],
     "0332231015": [
@@ -880,6 +892,18 @@
                 "EMPRENDIMIENTO E INNOVACIÓN",
                 "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
                 "INGENIERÍA DE PROCESOS"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "28/10/2026 03:02",
+            "agregados": [
+                "INGENIERÍA DE PROCESOS",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "SIMULACIÓN DE SISTEMAS",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)",
+                "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE TI",
+                "COMPLEMENTO ESPECIALIZADO"
             ],
             "retirados": []
         }
@@ -1601,6 +1625,19 @@
                 "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)"
             ],
             "retirados": []
+        },
+        {
+            "fecha": "28/10/2026 03:02",
+            "agregados": [
+                "LEGISLACIÓN INFORMÁTICA",
+                "INGENIERÍA DE PROCESOS",
+                "EMPRENDIMIENTO E INNOVACIÓN",
+                "SIMULACIÓN DE SISTEMAS",
+                "INVESTIGACION OPERATIVA II",
+                "WEB APPLICATION DEVELOOPMENT (IN ENGLISH)",
+                "COMPLEMENTO ESPECIALIZADO"
+            ],
+            "retirados": []
         }
     ],
     "0332222013": [
@@ -2064,6 +2101,18 @@
                 "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
                 "TOMA DE DESICIONES",
                 "PROYECTOS DE TESIS"
+            ],
+            "retirados": []
+        },
+        {
+            "fecha": "28/10/2026 03:02",
+            "agregados": [
+                "TOMA DE DESICIONES",
+                "GESTION DE CALIDAD",
+                "DEONTOLOGIA PROFESIONAL Y DISCAPACITADO",
+                "PROYECTOS DE TESIS",
+                "E-BUSSINESS AND CLOUD COMPUTING (IN ENGLISH)",
+                "GESTION DE PROYECTOS DE TI"
             ],
             "retirados": []
         }
